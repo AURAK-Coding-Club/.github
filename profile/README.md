@@ -24,7 +24,7 @@ This is AURAK'S Student Coding Club.
 - [ ] Organize an API workshop.
 - [ ] Organize a dependency management workshop.
 - [ ] Organize a documentation reading and navigation workshop.
-- [ ] Organize short recurring time-limited online competitions (leaderboard?)
+- [ ] Organize short, recurring, time-limited online competitions (leaderboard?)
 
 ### In Progress
 
@@ -46,3 +46,6 @@ This is AURAK'S Student Coding Club.
 - [x] Select prizes for the coding competition.
 - [x] Obtain an email handle.
 - [x] Acquire department faculty sponsors.
+
+> [!Managed & Maintained By]
+> Nour MK.
