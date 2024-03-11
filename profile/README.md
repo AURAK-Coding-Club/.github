@@ -1,6 +1,6 @@
 # Hello World 👋🏻
 
-This is AURAK'S Student Coding Club.
+This is AURAK's Student Coding Club.
 
 ### Recurring Tasks
 
@@ -46,6 +46,3 @@ This is AURAK'S Student Coding Club.
 - [x] Select prizes for the coding competition.
 - [x] Obtain an email handle.
 - [x] Acquire department faculty sponsors.
-
-> [!Managed & Maintained By]
-> Nour MK.
