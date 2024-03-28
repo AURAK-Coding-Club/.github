@@ -21,7 +21,7 @@ The Coding Club upholds a set of principles to foster a positive and inclusive e
 </details>
 
 <details>
-  <summary> Todo </summary>
+  <summary> Future Plans </summary>
 
   - [ ] Host the signature event of the 2nd club relaunch.
   - [ ] Compile a list of all websites on which the @aurak handle is recognizable as a student email (educational privileges).
