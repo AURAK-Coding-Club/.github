@@ -105,10 +105,9 @@ This is a semesterly competitive leaderboard set to foster student engagement in
   <summary>Ex-Team</summary>
 
 - **President:** Hinad Fransis
-- **Vice President:** 
-- **Ideator:** 
-- **Graphic Designer:** 
-- **Social Media Manager:** 
+- **Vice President:** Ghaleb Aldoboni
+- **Executive:** Mazen
+- **Executive:** Mai Mansour
 </details>
   
 #
