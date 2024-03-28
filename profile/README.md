@@ -111,4 +111,4 @@ This is a semesterly competitive leaderboard set to foster student engagement in
   
 #
 
-We value your feedback! If you have any suggestions, ideas, or feedback for improving the coding club's activities and events, please share them with us by sending us either an email, dm on Instagram, or WhatsApp. Your input helps us enhance the club experience for all members.
+We value your feedback! If you have any suggestions or ideas for improving the coding club's activities and events, please share them with us by sending us either an email, dm on Instagram, or WhatsApp. Your input helps us enhance the club experience for all members.
