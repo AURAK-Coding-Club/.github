@@ -25,7 +25,7 @@ The Coding Club upholds a set of principles to foster a positive and inclusive e
 
   - [ ] Host the signature event of the 2nd club relaunch.
   - [ ] Compile a list of all websites on which the @aurak handle is recognizable as a student email (educational privileges).
-  - [ ] Compile important potential research papers for dev discussions.
+  - [ ] Compile important research papers for dev discussions.
   - [ ] Request appreciation certificates for all management members.
   - [ ] Request volunteers for the programming languages introductory A4 posters.
   - [ ] Organize an event with an outside speaker.
