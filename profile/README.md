@@ -80,15 +80,15 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 | Rank | Member     | Score |
 |:----:|:----------:|:-----:|
 |🏆| **Ahmed Abuhajjaj**   | **35** |
-|🥈| **Lina Abdalmajeed**  | **10** |
-|🥉| **Urita Sadallah**| **10** |
-| **4**| **Abin Devarajan**  | **10** |
-| **5**| **Nada Mohamed**  | **10** |
-| **6**| **Maram Sabri**  | **15** |
-| **7**| **Hinad Fransis**  | **10** |
-| **8**| **Muhammad Mbarak**  | **10** |
-| **9**| **Fares Masarani**  | **10** |
-| **10**| **Abdulghani Sabbagh**  | **25** |
+|🥈| **Abdulghani Sabbagh**  | **25** |
+|🥉| **Maram Sabri**  | **15** |
+| **4**| **Lina Abdalmajeed**  | **10** |
+| **5**| **Urita Sadallah**| **10** |
+| **6**| **Abin Devarajan**  | **10** |
+| **7**| **Muhammad Mbarak**  | **10** |
+| **8**| **Nada Mohamed**  | **10** |
+| **9**| **Hinad Fransis**  | **10** |
+| **10**| **Fares Masarani**  | **10** |
 | **11**| **Abdullah Yousef**  | **10** |
 | **12**| **Yousef Al Hayek**  | **5** |
 
