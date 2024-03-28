@@ -106,7 +106,7 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 
 - **President:** Hinad Fransis
 - **Vice President:** Ghaleb Aldoboni
-- **Executive:** Mazen
+- **Executive:** Mazen Eltawil
 - **Executive:** Mai Mansour
 </details>
   
