@@ -10,14 +10,14 @@ The Coding Club upholds a set of principles to foster a positive and inclusive e
 <details>
   <summary> Recurring Tasks</summary>
 
-  - [ ] Prep the Tech Talk Whatsapp post (news - announcements - questions). [@Youssef](https://github.com/YoussefAzizeldin)
-  - [ ] Prep materials, spotlight project, agenda, and activities for the weekly Dev Discussion.
-  - [ ] Stay active on socials. [@Hazim](https://github.com/win-x-u-r)
+  - [ ] Prepping the Tech Talk Whatsapp post (news - announcements - questions). [@Youssef](https://github.com/YoussefAzizeldin)
+  - [ ] Prepping materials, spotlight project, agenda, and activities for the weekly Dev Discussion.
+  - [ ] Staying active on socials. [@Hazim](https://github.com/win-x-u-r)
   - [ ] Submit budget and clearance requests to the Club Committee & Student Government Association to announce activities. [@Nour](https://github.com/Nour-MK)
-  - [ ] Collecting resources to recommend.
+  - [ ] Collecting resources to recommend. [@Shamsi](https://github.com/M-Alshamsi)
   - [ ] Requesting Coding Club Tech Titans certificates semesterly. [@Nour](https://github.com/Nour-MK)
   - [ ] Requesting midterm and final practice exams from department faculty semesterly to hold course review sessions.
-  - [ ] Maintain the leaderboard weekly. [@Nour](https://github.com/Nour-MK)
+  - [ ] Updating the leaderboard weekly. [@Nour](https://github.com/Nour-MK)
 </details>
 
 <details>
