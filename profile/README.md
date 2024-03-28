@@ -48,6 +48,8 @@ The Coding Club upholds a set of principles to foster a positive and inclusive e
 - [x] Hire a Social Media Manager. [@Hazim](https://github.com/win-x-u-r)
 - [x] Obtain an email handle.
 - [x] Acquire department faculty sponsors.
+- [x] Establish Tech Talks: the weekly news, announcements, projects, polls, and memes post.
+- [x] Establish Dev Discussions: the fortnightly meet-ups (irl or online) where we cover some CS topics theoretically, showcase an application project of them, and engage the guests through various practical activities.
 - [x] **Total number of Tech Talks posted: 4**
 - [x] **Total number of Dev Discussions hosted: 1**
 - [x] **Total number of Competitions organized: 0**
