@@ -54,7 +54,8 @@ Our club upholds a set of principles to foster a positive and inclusive environm
 - [x] Establish Dev Discussions: the fortnightly meet-ups (irl or online) where we cover some CS topics theoretically, showcase an application project of them, and engage the guests through various practical activities.
 - [x] **Total number of Tech Talks posted: 4**
 - [x] **Total number of Dev Discussions hosted: 1**
-- [x] **Total number of Competitions organized: 0**
+- [x] **Total number of Events organized: 0**
+- [x] **Total amount of budget used: 1125.5 AED**
 </details>
 
 
