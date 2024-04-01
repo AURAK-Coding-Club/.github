@@ -52,10 +52,16 @@ Our club upholds a set of principles to foster a positive and inclusive environm
 - [x] Acquire department faculty sponsors.
 - [x] Establish Tech Talks: the weekly news, announcements, projects, polls, and memes post.
 - [x] Establish Dev Discussions: the fortnightly meet-ups (irl or online) where we cover some CS topics theoretically, showcase an application project of them, and engage the guests through various practical activities.
-- [x] **Total number of Tech Talks posted: 4**
-- [x] **Total number of Dev Discussions hosted: 1**
-- [x] **Total number of Events organized: 0**
-- [x] **Total amount of budget used: 1125.5 AED**
+
+**Total number of Tech Talks posted: 4**
+
+**Total number of Dev Discussions hosted: 1**
+
+**Total number of Review Rounds posted: 0**
+
+**Total number of Events organized: 0**
+
+**Total amount of budget used: 1125.5 AED**
 </details>
 
 
