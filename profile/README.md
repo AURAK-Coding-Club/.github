@@ -73,7 +73,7 @@ This is a semesterly competitive leaderboard set to foster student engagement in
   <summary> How to Collect Points</summary>
 
 - **(5 pts)** for voting on weekly Tech Talk polls.
-- **(5 pts)** for getting featured in the programming memes competition.
+- **(10 pts)** for getting featured in the programming memes competition.
 - **(10 pts)** for attending fortnightly Dev Discussions.
 - **(10 pts)** for engaging in any requested volunteering activities.
 - **(15 pts)** for getting 1st place in typeathons.
