@@ -95,12 +95,12 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 | **4**| **Abdulghani Sabbagh**  | **25** |
 | **5**| **Fares Masarani**  | **20** |
 | **6**| **Lina Abdalmajeed**  | **10** |
-| **7**| **Urita Sadallah**| **10** |
-| **8**|  **Abin Devarajan**  | **10** |
-| **9**| **Nada Mohamed**  | **10** |
-| **10**| **Hinad Fransis**  | **10** |
-| **11**| **Abdullah Yousef**  | **10** |
-| **12**| **Yousef Al Hayek**  | **5** |
+| **6**| **Urita Sadallah**| **10** |
+| **6**|  **Abin Devarajan**  | **10** |
+| **6**| **Nada Mohamed**  | **10** |
+| **6**| **Hinad Fransis**  | **10** |
+| **6**| **Abdullah Yousef**  | **10** |
+| **7**| **Yousef Al Hayek**  | **5** |
 
 </details>
 
