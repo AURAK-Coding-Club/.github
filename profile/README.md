@@ -55,7 +55,7 @@ Our club upholds a set of principles to foster a positive and inclusive environm
 
 **Total number of Tech Talks posted: 5**
 
-**Total number of Dev Discussions hosted: 1**
+**Total number of Dev Discussions hosted: 2**
 
 **Total number of Review Rounds posted: 0**
 
@@ -93,12 +93,12 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 |🥈| **Maram Sabri**  | **35** |
 |🥉| **Zohaa Khan** | **30** |
 | **4**| **Abdulghani Sabbagh**  | **25** |
-| **5**| **Lina Abdalmajeed**  | **10** |
-| **6**| **Urita Sadallah**| **10** |
-| **7**|  **Abin Devarajan**  | **10** |
-| **8**| **Nada Mohamed**  | **10** |
-| **9**| **Hinad Fransis**  | **10** |
-| **10**| **Fares Masarani**  | **10** |
+| **5**| **Fares Masarani**  | **20** |
+| **6**| **Lina Abdalmajeed**  | **10** |
+| **7**| **Urita Sadallah**| **10** |
+| **8**|  **Abin Devarajan**  | **10** |
+| **9**| **Nada Mohamed**  | **10** |
+| **10**| **Hinad Fransis**  | **10** |
 | **11**| **Abdullah Yousef**  | **10** |
 | **12**| **Yousef Al Hayek**  | **5** |
 
