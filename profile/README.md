@@ -90,8 +90,9 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 |:----:|:----------:|:-----:|
 |🏆| **Muhammad Mbarak**  | **40** |
 |🥈| **Ahmed Abuhajjaj**   | **35** |
-|🥉| **Abdulghani Sabbagh**  | **25** |
-| **4**| **Maram Sabri**  | **15** |
+|🥈| **Maram Sabri**  | **35** |
+|🥉| **Zohaa Khan** | **30** |
+| **4**| **Abdulghani Sabbagh**  | **25** |
 | **5**| **Lina Abdalmajeed**  | **10** |
 | **6**| **Urita Sadallah**| **10** |
 | **7**|  **Abin Devarajan**  | **10** |
