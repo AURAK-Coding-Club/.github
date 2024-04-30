@@ -53,7 +53,7 @@ Our club upholds a set of principles to foster a positive and inclusive environm
 - [x] Establish Tech Talks: the weekly news, announcements, projects, polls, and memes post.
 - [x] Establish Dev Discussions: the fortnightly meet-ups (irl or online) where we cover some CS topics theoretically, showcase an application project of them, and engage the guests through various practical activities.
 
-**Total number of Tech Talks posted: 5**
+**Total number of Tech Talks posted: 7**
 
 **Total number of Dev Discussions hosted: 2**
 
@@ -88,19 +88,24 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 
 | Rank | Member     | Score |
 |:----:|:----------:|:-----:|
-|🏆| **Muhammad Mbarak**  | **40** |
-|🥈| **Ahmed Abuhajjaj**   | **35** |
-|🥈| **Maram Sabri**  | **35** |
-|🥉| **Zohaa Khan** | **30** |
-| **4**| **Abdulghani Sabbagh**  | **25** |
+|🏆| **Ahmed Abuhajjaj**   | **55** |
+|🥈| **Muhammad Mbarak**  | **40** |
+|🥈| **Maram Sabri**  | **40** |
+|🥉| **Abdulghani Sabbagh**  | **35** |
+| **4**| **Zohaa Khan** | **30** |
 | **5**| **Fares Masarani**  | **20** |
-| **6**| **Lina Abdalmajeed**  | **10** |
-| **6**| **Urita Sadallah**| **10** |
-| **6**|  **Abin Devarajan**  | **10** |
-| **6**| **Nada Mohamed**  | **10** |
-| **6**| **Hinad Fransis**  | **10** |
-| **6**| **Abdullah Yousef**  | **10** |
-| **7**| **Yousef Al Hayek**  | **5** |
+| **5**| **Hinad Fransis**  | **20** |
+| **6**| **Urita Sadallah**| **15** |
+| **6**| **Abdullah Yousef**  | **15** |
+| **6**| **Asma Aldhaibani**  | **15** |
+| **7**| **Lina Abdalmajeed**  | **10** |
+| **7**|  **Abin Devarajan**  | **10** |
+| **7**| **Nada Mohamed**  | **10** |
+| **8**| **Yousef Al Hayek**  | **5** |
+| **8**| **Kirubel Mamo**  | **5** |
+| **8**| **Abdelrahman Ahmed**  | **5** |
+| **8**| **Aqsa Malik**  | **5** |
+| **8**| **Ahaad Seif**  | **5** |
 
 </details>
 
