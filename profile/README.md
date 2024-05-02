@@ -109,6 +109,15 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 
 </details>
 
+<details>
+  <summary>Fall 2024 Leaderboard</summary>
+
+| Rank | Member     | Score |
+|:----:|:----------:|:-----:|
+|🏆| **Abdulghani Sabbagh**  | **20** |
+
+</details>
+
 ![](staff-header.gif)
 - **President:** Nour Mostafa
 - **Vice President:** Youssef Aziz
