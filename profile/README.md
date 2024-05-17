@@ -84,7 +84,7 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 </details>
 
 <details>
-  <summary>Spring 2024 Leaderboard</summary>
+  <summary>[Archieved]Spring 2024 Leaderboard</summary>
 
 | Rank | Member     | Score |
 |:----:|:----------:|:-----:|
