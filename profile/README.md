@@ -114,7 +114,7 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 
 | Rank | Member     | Score |
 |:----:|:----------:|:-----:|
-|🏆| **Abdulghani Sabbagh**  | **40** |
+|🏆| **Abdulghani Sabbagh**  | **60** |
 
 </details>
 
