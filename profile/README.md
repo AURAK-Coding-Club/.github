@@ -63,7 +63,7 @@ The club brings together tech enthusiasts for a range of exciting activities tha
 </details>
 
 
-![](leaderboard-header.gif)
+![](leaderboard.gif)
 
 This is a semesterly competitive leaderboard set to foster student engagement in club activities. Top 3 ranks will be awarded Coding Club Tech Titan certificates from AURAK's Department of Computer Science & Engineering.
 
@@ -116,7 +116,7 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 
 </details>
 
-![](staff-header.gif)
+![](staff.gif)
 - **President:** Nour Mostafa
 - **Vice President:** Youssef Aziz
 - **Ideator:** Mohammed Alshamsi
