@@ -1,9 +1,9 @@
-# Hello World <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />
+# Hello World <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Loudspeaker.png" alt="Loudspeaker" width="30" height="30" />
 ![](motto.gif)
 
-This is AURAK's Student Coding Club. Welcome to our GitHub repository! Our club is dedicated to fostering a passion for coding and technology among students at the American University of Ras Al Khaimah. Whether you're a beginner or an experienced coder, our club offers a welcoming community where you can learn, collaborate, and unleash your creativity through coding projects and activities.
+This is AURAK's Student Coding Club. Welcome to our GitHub! Our club is dedicated to fostering a passion for coding and technology among students at the American University of Ras Al Khaimah. Whether you're a beginner or an experienced coder, our club offers a welcoming community where you can learn, collaborate, and unleash your creativity through coding projects and activities.
 
-The Coding Club brings together tech enthusiasts for a range of exciting activities that blend learning with fun. From sharing weekly tech talks on WhatsApp and Instagram to lively biweekly dev discussions in G's AutoCAD lab (live streaming on Google Meets). We spice things up with coding competitions, handy tech tool recommendations, and review sessions during midterm and final exam periods. Plus, we're not afraid to venture beyond campus, organizing field trips to conferences and tech events. Wait there's more: memes, polls, news, and typeathons!
+The club brings together tech enthusiasts for a range of exciting activities that blend learning with fun. From sharing weekly Tech Talks to lively biweekly Dev Discussions in G's AutoCAD lab (live streaming on Google Meets). We spice things up with coding competitions, handy tech tool recommendations, and review sessions during midterm and final exam periods. Plus, we're not afraid to venture beyond campus, organizing field trips to conferences and tech events. Wait there's more: memes, polls, news, and typeathons!
 
 ![](plans.gif)
 
