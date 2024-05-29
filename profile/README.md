@@ -51,11 +51,11 @@ The club brings together tech enthusiasts for a range of exciting activities tha
 - [x] Establish Tech Talks: the weekly news, announcements, projects, polls, and memes post.
 - [x] Establish Dev Discussions: the fortnightly meet-ups (irl or online) where we cover some CS topics theoretically, showcase an application project of them, and engage the guests through various practical activities.
 
-**Total number of Tech Talks posted: 7**
+**Total number of Tech Talks posted: 9**
 
 **Total number of Dev Discussions hosted: 2**
 
-**Total number of Review Rounds posted: 0**
+**Total number of Review Rounds posted: 6**
 
 **Total number of Events organized: 0**
 
@@ -108,7 +108,7 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 </details>
 
 <details>
-  <summary>Fall 2024 Leaderboard</summary>
+  <summary>Summer 2024 Leaderboard</summary>
 
 | Rank | Member     | Score |
 |:----:|:----------:|:-----:|
