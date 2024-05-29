@@ -1,4 +1,4 @@
-# Hello World <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Loudspeaker.png" alt="Loudspeaker" width="30" height="30" />
+# Hello World!
 ![](motto.gif)
 
 This is AURAK's Student Coding Club. Welcome to our GitHub! Our club is dedicated to fostering a passion for coding and technology among students at the American University of Ras Al Khaimah. Whether you're a beginner or an experienced coder, our club offers a welcoming community where you can learn, collaborate, and unleash your creativity through coding projects and activities.
@@ -136,6 +136,6 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 
 Our club upholds a set of principles to foster a positive and inclusive environment for all members. We prioritize respect, inclusivity, collaboration, professionalism, integrity, safety, diversity, and responsibility in all club activities. By joining our club, members commit to treating others with kindness and respect, regardless of differences in background, identity, or skill level. We encourage collaboration, constructive feedback, and professionalism in all interactions. Safety and well-being are paramount, and we embrace the diversity of perspectives, experiences, and ideas within our community. Members are expected to uphold these principles and take responsibility for their actions. Any violations of this code of conduct will be addressed by club leadership in accordance with club policies. As members of the Coding Club, it is imperative that we also adhere to the rules and regulations set forth by the American University of Ras Al Khaimah as well as embrace the cultural values of the United Arab Emirates.
 
-We value your feedback! If you have any suggestions or ideas for improving the coding club's activities and events, please share them with us by sending us either an email, dm on Instagram, or WhatsApp. Your input helps us enhance the club experience for all members.
+We value your feedback! If you have any suggestions or ideas for improving the coding club's activities and events, please share them by reaching out to us. Your input helps our team enhance the club experience for all members.
 
 To apply as a staff member, please visit https://docs.google.com/forms/d/134o8TTd5PHuxOQBgE31H91YpiyGFyZ9guDSMdyJWGeg.
