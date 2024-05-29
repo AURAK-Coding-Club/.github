@@ -5,8 +5,6 @@ This is AURAK's Student Coding Club. Welcome to our GitHub repository! Our club 
 
 The Coding Club brings together tech enthusiasts for a range of exciting activities that blend learning with fun. From sharing weekly tech talks on WhatsApp and Instagram to lively biweekly dev discussions in G's AutoCAD lab (live streaming on Google Meets). We spice things up with coding competitions, handy tech tool recommendations, and review sessions during midterm and final exam periods. Plus, we're not afraid to venture beyond campus, organizing field trips to conferences and tech events. Wait there's more: memes, polls, news, and typeathons!
 
-Our club upholds a set of principles to foster a positive and inclusive environment for all members. We prioritize respect, inclusivity, collaboration, professionalism, integrity, safety, diversity, and responsibility in all club activities. By joining our club, members commit to treating others with kindness and respect, regardless of differences in background, identity, or skill level. We encourage collaboration, constructive feedback, and professionalism in all interactions. Safety and well-being are paramount, and we embrace the diversity of perspectives, experiences, and ideas within our community. Members are expected to uphold these principles and take responsibility for their actions. Any violations of this code of conduct will be addressed by club leadership in accordance with club policies. As members of the Coding Club, it is imperative that we also adhere to the rules and regulations set forth by the American University of Ras Al Khaimah as well as embrace the cultural values of the United Arab Emirates.
-
 ![](plans.gif)
 
 <details>
@@ -135,6 +133,8 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 </details>
   
 #
+
+Our club upholds a set of principles to foster a positive and inclusive environment for all members. We prioritize respect, inclusivity, collaboration, professionalism, integrity, safety, diversity, and responsibility in all club activities. By joining our club, members commit to treating others with kindness and respect, regardless of differences in background, identity, or skill level. We encourage collaboration, constructive feedback, and professionalism in all interactions. Safety and well-being are paramount, and we embrace the diversity of perspectives, experiences, and ideas within our community. Members are expected to uphold these principles and take responsibility for their actions. Any violations of this code of conduct will be addressed by club leadership in accordance with club policies. As members of the Coding Club, it is imperative that we also adhere to the rules and regulations set forth by the American University of Ras Al Khaimah as well as embrace the cultural values of the United Arab Emirates.
 
 We value your feedback! If you have any suggestions or ideas for improving the coding club's activities and events, please share them with us by sending us either an email, dm on Instagram, or WhatsApp. Your input helps us enhance the club experience for all members.
 
