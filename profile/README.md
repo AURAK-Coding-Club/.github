@@ -6,7 +6,10 @@ This is AURAK's Student Coding Club. Welcome to our GitHub! Our club is dedicate
 The club brings together tech enthusiasts for a range of exciting activities that blend learning with fun. From sharing weekly Tech Talks to lively biweekly Dev Discussions in G's AutoCAD lab (live streaming on Google Meets). We spice things up with coding competitions, handy tech tool recommendations, and review sessions during midterm and final exam periods. Plus, we're not afraid to venture beyond campus, organizing field trips to conferences and tech events. Wait there's more: memes, polls, news, and typeathons!
 
 ![](plans.gif)
-![](cert.png)
+
+<div align="center">
+  <img src="cert.png" alt="Certificate" width="50%">
+</div>
 
 <details>
   <summary> Spring 2024 Achievements </summary>
@@ -86,7 +89,7 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 Current Team [Spring 2024 - Present]
 | Role                  | Name              | Responsibilities                    |
 |-----------------------|-------------------|-------------------------------------|
-| **President**         | [Nour Mostafa](https://github.com/Nour-MK)      | Overseeing all operations. Scheduling and budgeting events. Requesting certificates and clearances from Student Life and Faculty Members. Report to Clubs Committee. |
+| **President**         | [Nour Mostafa](https://github.com/Nour-MK)      | Overseeing all team operations. <br> Planning events. <br> Reporting to Clubs Committee. |
 | **Vice President**    | [Youssef Aziz](https://github.com/YoussefAzizeldin)      | Assisting the President. <br> Doubling as an outreach coordinator. |
 | **Ideator**           | [Mohammed Alshamsi](https://github.com/M-Alshamsi) | Generating new initiatives. <br> Preparing and curating the Dev Discussions' materials. |
 | **Graphic Designer**  | [Mohamed Abouissa](https://github.com/Mohamed-Abouissa)  | Creating visual content <br> (i.e. Dev Discussions agendas, Review Rounds Thumbnails, Maintain Tech Talk magazine.) |
