@@ -89,8 +89,21 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 
 | Rank | Member     | Score |
 |:----:|:----------:|:-----:|
-|🏆| **Abdulghani Sabbagh**  | **60** |
+|🏆| **Abdulghani Sabbagh**  | **65** |
 |🥈| **Tia Othman**  | **10** |
+|🥈| **Zohaa Khan**  | **10** |
+|🥈| **Ahmed Abuhajjaj**   | **10** |
+|🥈| **Maram Sabri**  | **10** |
+|🥈| **Abdullah Yousef**  | **10** |
+|🥉| **Hassan Mashaal**  | **5** |
+|🥉| **Ali Aldahmani**  | **5** |
+|🥉| **Ahaad Seif**  | **5** |
+|🥉| **Muhammad Mbarak**  | **5** |
+|🥉| **Sulaiman Qeer**  | **5** |
+|🥉| **Asma Aldhaibani**  | **5** |
+|🥉| **Areeba Atique**  | **5** |
+|🥉| **Abdulla**  | **5** |
+|🥉| **Noora**  | **5** |
 
 </details>
 
