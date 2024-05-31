@@ -104,6 +104,7 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 |🥉| **Areeba Atique**  | **5** |
 |🥉| **Abdulla Alshehhi**  | **5** |
 |🥉| **Maryam Abdelrahman**  | **5** |
+|🥉| **Ahmed Salmi**  | **5** |
 |🥉| **Noora**  | **5** |
 
 </details>
