@@ -7,10 +7,6 @@ The club brings together tech enthusiasts for a range of exciting activities tha
 
 ![](plans.gif)
 
-<div align="center">
-  <img src="cert.png" alt="Certificate" width="50%">
-</div>
-
 <details>
   <summary> Spring 2024 Achievements </summary>
 
@@ -29,6 +25,10 @@ The club brings together tech enthusiasts for a range of exciting activities tha
 **Total number of Events organized: 0** <br>
 **Total amount of budget used: 0 AED** <br>
 </details>
+
+<div align="center">
+  <img src="cert.png" alt="Certificate" width="80%">
+</div>
 
 
 ![](leaderboard.gif)
@@ -89,7 +89,7 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 Current Team [Spring 2024 - Present]
 | Role                  | Name              | Responsibilities                    |
 |-----------------------|-------------------|-------------------------------------|
-| **President**         | [Nour Mostafa](https://github.com/Nour-MK)      | Overseeing all team operations. <br> Planning events. <br> Reporting to Clubs Committee. |
+| **President**         | [Nour Mostafa](https://github.com/Nour-MK)      | Overseeing all team operations and planning events. <br> Reporting to Clubs Committee. |
 | **Vice President**    | [Youssef Aziz](https://github.com/YoussefAzizeldin)      | Assisting the President. <br> Doubling as an outreach coordinator. |
 | **Ideator**           | [Mohammed Alshamsi](https://github.com/M-Alshamsi) | Generating new initiatives. <br> Preparing and curating the Dev Discussions' materials. |
 | **Graphic Designer**  | [Mohamed Abouissa](https://github.com/Mohamed-Abouissa)  | Creating visual content <br> (i.e. Dev Discussions agendas, Review Rounds Thumbnails, Maintain Tech Talk magazine.) |
