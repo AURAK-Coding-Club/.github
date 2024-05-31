@@ -23,7 +23,7 @@ The club brings together tech enthusiasts for a range of exciting activities tha
 **Total number of Tech Talks posted: 8** <br>
 **Total number of Dev Discussions hosted: 2** <br>
 **Total number of Review Rounds posted: 4** <br>
-**Total number of Events organized: 0** <br>
+**Total number of events organized: 0** <br>
 **Total amount of budget used: 0 AED** <br>
 </details>
 
@@ -36,7 +36,7 @@ The club brings together tech enthusiasts for a range of exciting activities tha
 **Total number of Tech Talks posted: 1** <br>
 **Total number of Dev Discussions hosted: 0** <br>
 **Total number of Review Rounds posted: 2** <br>
-**Total number of Events organized: 0** <br>
+**Total number of events organized: 0** <br>
 **Total amount of budget used: 0 AED** <br>
 </details>
 
