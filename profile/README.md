@@ -102,7 +102,7 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 |🥉| **Sulaiman Qeer**  | **5** |
 |🥉| **Asma Aldhaibani**  | **5** |
 |🥉| **Areeba Atique**  | **5** |
-|🥉| **Abdulla**  | **5** |
+|🥉| **Abdulla Alshehhi**  | **5** |
 |🥉| **Noora**  | **5** |
 
 </details>
