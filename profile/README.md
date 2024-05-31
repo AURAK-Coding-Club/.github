@@ -82,6 +82,7 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 </details>
 
 ![](staff.gif)
+
 Current Team [Spring 2024 - Present]
 | Role                  | Name              | Responsibilities                    |
 |-----------------------|-------------------|-------------------------------------|
