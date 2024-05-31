@@ -6,60 +6,25 @@ This is AURAK's Student Coding Club. Welcome to our GitHub! Our club is dedicate
 The club brings together tech enthusiasts for a range of exciting activities that blend learning with fun. From sharing weekly Tech Talks to lively biweekly Dev Discussions in G's AutoCAD lab (live streaming on Google Meets). We spice things up with coding competitions, handy tech tool recommendations, and review sessions during midterm and final exam periods. Plus, we're not afraid to venture beyond campus, organizing field trips to conferences and tech events. Wait there's more: memes, polls, news, and typeathons!
 
 ![](plans.gif)
-
-<details>
-  <summary> Recurring Tasks</summary>
-
-  - [ ] Prepping the Tech Talk Whatsapp post (news - announcements - questions). [@Youssef](https://github.com/YoussefAzizeldin)
-  - [ ] Prepping materials, spotlight project, agenda, and activities for the weekly Dev Discussion.
-  - [ ] Staying active on socials. [@Hazim](https://github.com/win-x-u-r)
-  - [ ] Submit budget and clearance requests to the Club Committee & Student Government Association to announce activities. [@Nour](https://github.com/Nour-MK)
-  - [ ] Collecting resources to recommend. [@Shamsi](https://github.com/M-Alshamsi)
-  - [ ] Requesting Coding Club Tech Titans certificates semesterly. [@Nour](https://github.com/Nour-MK)
-  - [ ] Requesting midterm and final practice exams from department faculty semesterly to hold course review sessions.
-  - [ ] Updating the leaderboard weekly. [@Nour](https://github.com/Nour-MK)
-</details>
-
-<details>
-  <summary> Future Plans </summary>
-
-  - [ ] Host the signature event of the 2nd club relaunch.
-  - [ ] Compile a list of all websites on which the @aurak handle is recognizable as a student email (educational privileges).
-  - [ ] Compile important research papers for dev discussions.
-  - [ ] Request appreciation certificates for all management members.
-  - [ ] Request volunteers for the programming languages introductory A4 posters.
-  - [ ] Organize an event with an outside speaker.
-  - [ ] Organize a debugging workshop.
-  - [ ] Organize an API workshop.
-  - [ ] Organize a dependency management workshop.
-  - [ ] Organize a documentation reading and navigation workshop.
-  - [ ] Organize short, recurring, time-limited online competitions (leaderboard?)
-  - [ ] Finalize the middle section of the Computer Science & Engineering board renovation.
-</details>
+![](cert.png)
 
 <details>
   <summary> Spring 2024 Achievements </summary>
 
-- [x] Renovate club's pfp, logo, poster, Tech Talk template, and Dev Discussions agenda template.
-- [x] Establish an online presence on Github, Instagram, and TikTok.
+- [x] Renovate all of the club's brand graphics.
+- [x] Establish an online presence on Github, YouTube, and Email.
 - [x] Advertise vacant positions. (x3) 
-- [x] Hire a Graphic Designer. [@Abouissa](https://github.com/Mohamed-Abouissa)
-- [x] Hire an Ideator. [@Shamsi](https://github.com/M-Alshamsi)
-- [x] Hire a Social Media Manager. [@Hazim](https://github.com/win-x-u-r)
-- [x] Obtain an email handle.
+- [x] Hire a new management team.
 - [x] Acquire department faculty sponsors.
 - [x] Establish Tech Talks: the weekly news, announcements, projects, polls, and memes post.
-- [x] Establish Dev Discussions: the fortnightly meet-ups (irl or online) where we cover some CS topics theoretically, showcase an application project of them, and engage the guests through various practical activities.
+- [x] Establish Dev Discussions: 4 meet-ups per semester where we cover some extracurricular CS topics.
+- [x] Establish Review Rounds: the YT review videos posted to aid students in preparing for their midterms and finals at AURAK. 
 
-**Total number of Tech Talks posted: 9**
-
-**Total number of Dev Discussions hosted: 2**
-
-**Total number of Review Rounds posted: 6**
-
-**Total number of Events organized: 0**
-
-**Total amount of budget used: 0 AED**
+**Total number of Tech Talks posted: 9** <br>
+**Total number of Dev Discussions hosted: 2** <br>
+**Total number of Review Rounds posted: 4** <br>
+**Total number of Events organized: 0** <br>
+**Total amount of budget used: 0 AED** <br>
 </details>
 
 
@@ -117,19 +82,25 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 </details>
 
 ![](staff.gif)
-- **President:** Nour Mostafa
-- **Vice President:** Youssef Aziz
-- **Ideator:** Mohammed Alshamsi
-- **Graphic Designer:** Mohamed Abouissa
-- **Social Media Manager:** Hazim Anwar
+Current Team [Spring 2024 - Present]
+| Role                  | Name              | Responsibilities                    |
+|-----------------------|-------------------|-------------------------------------|
+| **President**         | [Nour Mostafa](https://github.com/Nour-MK)      | Overseeing all operations. Scheduling and budgeting events. Requesting certificates and clearances from Student Life and Faculty Members. Report to Clubs Committee. |
+| **Vice President**    | [Youssef Aziz](https://github.com/YoussefAzizeldin)      | Assisting the President. <br> Doubling as an outreach coordinator. |
+| **Ideator**           | [Mohammed Alshamsi](https://github.com/M-Alshamsi) | Generating new initiatives. <br> Preparing and curating the Dev Discussions' materials. |
+| **Graphic Designer**  | [Mohamed Abouissa](https://github.com/Mohamed-Abouissa)  | Creating visual content <br> (i.e. Dev Discussions agendas, Review Rounds Thumbnails, Maintain Tech Talk magazine.) |
+| **Social Media Manager** | [Hazim Anwar](https://github.com/win-x-u-r)    | Managing our YouTube channel (Review Rounds & Coding Club Commends). <br> Preparing and curating our weekly Tech Talks. |
 
 <details>
-  <summary>Ex-Team</summary>
+  <summary>Ex-Team [Fall 2022 - Spring 2023]</summary>
 
-- **President:** Hinad Fransis
-- **Vice President:** Ghaleb Aldoboni
-- **Executive:** Mai Mansour
-- **Executive:** Mazin Khider
+| Role               | Name             | Responsibilities                       |
+|--------------------|------------------|----------------------------------------|
+| **President**      | Hinad Fransis    | Overseeing all operations and strategy. |
+| **Vice President** | Ghaleb Aldoboni  | Assisting the President and managing internal affairs. |
+| **Executive**      | Mai Mansour      | Executing strategic plans and projects. |
+| **Executive**      | Mazin Khider     | Supporting the implementation of initiatives. |
+
 </details>
   
 #
