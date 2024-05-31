@@ -8,7 +8,7 @@ The club brings together tech enthusiasts for a range of exciting activities tha
 ![](plans.gif)
 
 <details>
-  <summary> Spring 2024 Achievements </summary>
+  <summary> [Archieved] Spring 2024 Achievements </summary>
 
 - [x] Renovate all of the club's brand graphics.
 - [x] Establish an online presence on Github, YouTube, and Email.
@@ -20,9 +20,22 @@ The club brings together tech enthusiasts for a range of exciting activities tha
 - [x] Establish Review Rounds: the YT review videos posted to aid students in preparing for their midterms and finals at AURAK.
 - [x] Winning Most Active Student Club award.
 
-**Total number of Tech Talks posted: 9** <br>
+**Total number of Tech Talks posted: 8** <br>
 **Total number of Dev Discussions hosted: 2** <br>
 **Total number of Review Rounds posted: 4** <br>
+**Total number of Events organized: 0** <br>
+**Total amount of budget used: 0 AED** <br>
+</details>
+
+<details>
+  <summary> Summer 2024 Achievements </summary>
+
+- [x] Hire a team of reviewers for Review Rounds.
+- [x] Rebrand Tech Talk as a magazine. 
+
+**Total number of Tech Talks posted: 1** <br>
+**Total number of Dev Discussions hosted: 0** <br>
+**Total number of Review Rounds posted: 2** <br>
 **Total number of Events organized: 0** <br>
 **Total amount of budget used: 0 AED** <br>
 </details>
@@ -113,5 +126,5 @@ We value your feedback! If you have any suggestions or ideas for improving the c
 To apply as a staff member, please visit https://docs.google.com/forms/d/134o8TTd5PHuxOQBgE31H91YpiyGFyZ9guDSMdyJWGeg.
 
 <div align="center">
-  <img src="cert.png" alt="Certificate" width="100%">
+  <img src="cert.png" alt="Certificate" width="90%">
 </div>
