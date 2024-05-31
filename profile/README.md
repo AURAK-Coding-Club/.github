@@ -17,7 +17,8 @@ The club brings together tech enthusiasts for a range of exciting activities tha
 - [x] Acquire department faculty sponsors.
 - [x] Establish Tech Talks: the weekly news, announcements, projects, polls, and memes post.
 - [x] Establish Dev Discussions: 4 meet-ups per semester where we cover some extracurricular CS topics.
-- [x] Establish Review Rounds: the YT review videos posted to aid students in preparing for their midterms and finals at AURAK. 
+- [x] Establish Review Rounds: the YT review videos posted to aid students in preparing for their midterms and finals at AURAK.
+- [x] Winning Most Active Student Club award.
 
 **Total number of Tech Talks posted: 9** <br>
 **Total number of Dev Discussions hosted: 2** <br>
@@ -25,11 +26,6 @@ The club brings together tech enthusiasts for a range of exciting activities tha
 **Total number of Events organized: 0** <br>
 **Total amount of budget used: 0 AED** <br>
 </details>
-
-<div align="center">
-  <img src="cert.png" alt="Certificate" width="80%">
-</div>
-
 
 ![](leaderboard.gif)
 
@@ -81,6 +77,7 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 | Rank | Member     | Score |
 |:----:|:----------:|:-----:|
 |🏆| **Abdulghani Sabbagh**  | **60** |
+|🥈| **Tia Othman**  | **10** |
 
 </details>
 
@@ -114,3 +111,7 @@ Our club upholds a set of principles to foster a positive and inclusive environm
 We value your feedback! If you have any suggestions or ideas for improving the coding club's activities and events, please share them by reaching out to us. Your input helps our team enhance the club experience for all members.
 
 To apply as a staff member, please visit https://docs.google.com/forms/d/134o8TTd5PHuxOQBgE31H91YpiyGFyZ9guDSMdyJWGeg.
+
+<div align="center">
+  <img src="cert.png" alt="Certificate" width="100%">
+</div>
