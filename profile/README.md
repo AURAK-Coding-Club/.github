@@ -106,6 +106,7 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 |🥉| **Maryam Abdelrahman**  | **5** |
 |🥉| **Ahmed Salmi**  | **5** |
 |🥉| **Noora Ali**  | **5** |
+|🥉| **Muhammad Mustafa**  | **5** |
 
 </details>
 
