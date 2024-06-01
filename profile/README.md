@@ -118,7 +118,7 @@ Current Team [Spring 2024 - Present]
 | **President**         | [Nour Mostafa](https://github.com/Nour-MK)      | Overseeing all team operations and planning events. <br> Reporting to Clubs Committee. |
 | **Vice President**    | [Youssef Aziz](https://github.com/YoussefAzizeldin)      | Assisting the President. <br> Doubling as an outreach coordinator. |
 | **Ideator**           | [Mohammed Alshamsi](https://github.com/M-Alshamsi) | Generating new initiatives. <br> Preparing and curating the Dev Discussions' materials. |
-| **Graphic Designer**  | [Mohamed Abouissa](https://github.com/Mohamed-Abouissa)  | Creating visual content <br> (i.e. Dev Discussions agendas, Review Rounds Thumbnails, Tech Talk magazine.) |
+| **Graphic Designer**  | [Mohamed Abouissa](https://github.com/Mohamed-Abouissa)  | Creating visual content <br> (i.e. Dev Discussions agendas, Review Rounds thumbnails, Tech Talk magazine.) |
 | **Social Media Manager** | [Hazim Anwar](https://github.com/win-x-u-r)    | Managing our YouTube channel (Review Rounds & Coding Club Commends). <br> Preparing and curating our weekly Tech Talks. |
 
 <details>
