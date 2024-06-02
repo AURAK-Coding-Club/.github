@@ -5,7 +5,7 @@ This is AURAK's Student Coding Club. Welcome to our GitHub! Our club is dedicate
 
 The club brings together tech enthusiasts for a range of exciting activities that blend learning with fun. From sharing weekly Tech Talks to lively biweekly Dev Discussions in G's AutoCAD lab (live streaming on Google Meets). We spice things up with coding competitions, handy tech tool recommendations, and review sessions during midterm and final exam periods. Plus, we're not afraid to venture beyond campus, organizing field trips to conferences and tech events. Wait there's more: memes, polls, news, and typeathons!
 
-![](plans.gif)
+![](achievements.gif)
 
 <details>
   <summary> [Archieved] Spring 2024 </summary>
@@ -112,7 +112,7 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 
 </details>
 
-![](staff.gif)
+![](crew.gif)
 
 Current Team [Spring 2024 - Present]
 | Role                  | Name              | Responsibilities                    |
