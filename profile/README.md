@@ -107,6 +107,8 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 |🥉| **Ahmed Salmi**  | **5** |
 |🥉| **Noora Ali**  | **5** |
 |🥉| **Muhammad Mustafa**  | **5** |
+|🥉| **Hamda Alali**  | **5** |
+|🥉| **Hasan Alshehhi**  | **5** |
 
 </details>
 
