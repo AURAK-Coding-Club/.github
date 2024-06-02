@@ -40,7 +40,7 @@ The club brings together tech enthusiasts for a range of exciting activities tha
 **Total amount of budget used: 0 AED** <br>
 </details>
 
-![](leaderboard.gif)
+![](techtitans.gif)
 
 This is a semesterly competitive leaderboard set to foster student engagement in club activities. Top 3 ranks will be awarded Coding Club Tech Titan certificates from AURAK's Department of Computer Science & Engineering.
 
