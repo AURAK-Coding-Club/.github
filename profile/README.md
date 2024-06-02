@@ -8,7 +8,7 @@ The club brings together tech enthusiasts for a range of exciting activities tha
 ![](plans.gif)
 
 <details>
-  <summary> [Archieved] Spring 2024 Achievements </summary>
+  <summary> [Archieved] Spring 2024 </summary>
 
 - [x] Renovate all of the club's brand graphics.
 - [x] Establish an online presence on Github, YouTube, and Email.
@@ -28,7 +28,7 @@ The club brings together tech enthusiasts for a range of exciting activities tha
 </details>
 
 <details>
-  <summary> Summer 2024 Achievements </summary>
+  <summary> Summer 2024 </summary>
 
 - [x] Hire a team of reviewers for Review Rounds.
 - [x] Rebrand Tech Talk as a magazine. 
@@ -59,7 +59,7 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 </details>
 
 <details>
-  <summary>[Archieved] Spring 2024 Leaderboard</summary>
+  <summary>[Archieved] Spring 2024</summary>
 
 | Rank | Member     | Score |
 |:----:|:----------:|:-----:|
@@ -85,7 +85,7 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 </details>
 
 <details>
-  <summary>Summer 2024 Leaderboard</summary>
+  <summary>Summer 2024</summary>
 
 | Rank | Member     | Score |
 |:----:|:----------:|:-----:|
