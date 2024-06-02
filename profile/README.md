@@ -109,7 +109,7 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 |🥉| **Muhammad Mustafa**  | **5** |
 |🥉| **Hamda Alali**  | **5** |
 |🥉| **Hasan Alshehhi**  | **5** |
-
+|🥉| **Ahmed Albakr**  | **5** |
 </details>
 
 ![](crew.gif)
