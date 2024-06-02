@@ -28,7 +28,7 @@ The club brings together tech enthusiasts for a range of exciting activities tha
 </details>
 
 <details>
-  <summary> Summer 2024 </summary>
+  <summary> [Ongoing] Summer 2024 </summary>
 
 - [x] Hire a team of reviewers for Review Rounds.
 - [x] Rebrand Tech Talk as a magazine. 
@@ -85,7 +85,7 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 </details>
 
 <details>
-  <summary>Summer 2024</summary>
+  <summary>[Ongoing] Summer 2024</summary>
 
 | Rank | Member     | Score |
 |:----:|:----------:|:-----:|
