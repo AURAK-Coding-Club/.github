@@ -8,7 +8,7 @@ The club brings together tech enthusiasts for a range of exciting activities tha
 ![](achievements.gif)
 
 <details>
-  <summary> [Archieved] Spring 2024 </summary>
+  <summary> [Archived] Spring 2024 </summary>
 
 - [x] Renovate all of the club's brand graphics.
 - [x] Establish an online presence on Github, YouTube, and Email.
@@ -59,7 +59,7 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 </details>
 
 <details>
-  <summary>[Archieved] Spring 2024</summary>
+  <summary>[Archived] Spring 2024</summary>
 
 | Rank | Member     | Score |
 |:----:|:----------:|:-----:|
