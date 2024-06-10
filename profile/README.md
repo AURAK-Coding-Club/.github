@@ -61,59 +61,59 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 <details>
   <summary>[Archived] Spring 2024</summary>
 
-| Rank | Member     | Score |
-|:----:|:----------:|:-----:|
-|🏆| **Ahmed Abuhajjaj**   | **55** |
-|🥈| **Muhammad Mbarak**  | **40** |
-|🥈| **Maram Sabri**  | **40** |
-|🥉| **Abdulghani Sabbagh**  | **35** |
-| **4**| **Zohaa Khan** | **30** |
-| **5**| **Fares Masarani**  | **20** |
-| **5**| **Hinad Fransis**  | **20** |
-| **6**| **Urita Sadallah**| **15** |
-| **6**| **Abdullah Yousef**  | **15** |
-| **6**| **Asma Aldhaibani**  | **15** |
-| **7**| **Lina Abdalmajeed**  | **10** |
-| **7**|  **Abin Devarajan**  | **10** |
-| **7**| **Nada Mohamed**  | **10** |
-| **8**| **Kamel Mostafa**  | **5** |
-| **8**| **Yousef Al Hayek**  | **5** |
-| **8**| **Kirubel Mamo**  | **5** |
-| **8**| **Abdelrahman Ahmed**  | **5** |
-| **8**| **Aqsa Malik**  | **5** |
-| **8**| **Ahaad Seif**  | **5** |
+| Rank | Member     |Major | Score |
+|:----:|:----------:|:-----:|:-----:|
+|🏆| **Ahmed Abuhajjaj**   |N/A| **55** |
+|🥈| **Muhammad Mbarak**  |N/A| **40** |
+|🥈| **Maram Sabri**  |N/A| **40** |
+|🥉| **Abdulghani Sabbagh**  |  Computer Engineering |**35** |
+| **4**| **Zohaa Khan** |N/A| **30** |
+| **5**| **Fares Masarani**  |N/A| **20** |
+| **5**| **Hinad Fransis**  |  Artificial Intelligence |**20** |
+| **6**| **Urita Sadallah**| Computer Science | **15** |
+| **6**| **Abdullah Yousef**  |N/A| **15** |
+| **6**| **Asma Aldhaibani**  | Computer Engineering | **15** |
+| **7**| **Lina Abdalmajeed**  |N/A| **10** |
+| **7**|  **Abin Devarajan**  |N/A| **10** |
+| **7**| **Nada Mohamed**  | Computer Engineering | **10** |
+| **8**| **Kamel Mostafa**  |N/A| **5** |
+| **8**| **Yousef Al Hayek**  |N/A| **5** |
+| **8**| **Kirubel Mamo**  |N/A| **5** |
+| **8**| **Abdelrahman Ahmed**  |N/A| **5** |
+| **8**| **Aqsa Malik**  |N/A| **5** |
+| **8**| **Ahaad Seif**  |N/A| **5** |
 
 </details>
 
 <details>
   <summary>[Ongoing] Summer 2024</summary>
 
-| Rank | Member     | Score |
-|:----:|:----------:|:-----:|
-|🏆| **Abdulghani Sabbagh**  | **65** |
-|🥈| **Tia Othman**  | **10** |
-|🥈| **Zohaa Khan**  | **10** |
-|🥈| **Ahmed Abuhajjaj**   | **10** |
-|🥈| **Maram Sabri**  | **10** |
-|🥈| **Abdullah Yousef**  | **10** |
-|🥈| **Ali Aldahmani**  | **10** |
-|🥉| **Kamel Mostafa**  | **5** |
-|🥉| **Mazen Eltawil**  | **5** |
-|🥉| **Hassan Mashaal**  | **5** |
-|🥉| **Ahaad Seif**  | **5** |
-|🥉| **Muhammad Mbarak**  | **5** |
-|🥉| **Sulaiman Qeer**  | **5** |
-|🥉| **Asma Aldhaibani**  | **5** |
-|🥉| **Areeba Atique**  | **5** |
-|🥉| **Abdulla Alshehhi**  | **5** |
-|🥉| **Muhammed Shafi**  | **5** |
-|🥉| **Maryam Abdelrahman**  | **5** |
-|🥉| **Ahmed Salmi**  | **5** |
-|🥉| **Noora Ali**  | **5** |
-|🥉| **Muhammad Mustafa**  | **5** |
-|🥉| **Hamda Alali**  | **5** |
-|🥉| **Hasan Alshehhi**  | **5** |
-|🥉| **Ahmed Albakr**  | **5** |
+| Rank | Member     | Major | Score |
+|:----:|:----------:|:-----:|:-----:|
+|🏆| **Abdulghani Sabbagh** | Computer Engineering | **65** |
+|🥈| **Tia Othman**  | Artificial Intelligence | **10** | 
+|🥈| **Zohaa Khan**  |N/A| **10** |
+|🥈| **Ahmed Abuhajjaj**   |N/A| **10** |
+|🥈| **Maram Sabri**  | Artificial Intelligence |**10** |
+|🥈| **Abdullah Yousef**  |N/A| **10** |
+|🥈| **Ali Aldahmani**  |N/A| **10** |
+|🥉| **Kamel Mostafa**  |N/A| **5** |
+|🥉| **Mazen Eltawil**  |N/A| **5** |
+|🥉| **Hassan Mashaal**  |N/A| **5** |
+|🥉| **Ahaad Seif**  |N/A| **5** |
+|🥉| **Muhammad Mbarak**  |N/A| **5** |
+|🥉| **Sulaiman Qeer**  |N/A| **5** |
+|🥉| **Asma Aldhaibani**  | Computer Engineering | **5** |
+|🥉| **Areeba Atique**  |N/A| **5** |
+|🥉| **Abdulla Alshehhi**  |N/A| **5** |
+|🥉| **Muhammed Shafi**  | Computer Engineering | **5** |
+|🥉| **Maryam Abdelrahman**  |N/A| **5** |
+|🥉| **Ahmed Salmi**  |N/A| **5** |
+|🥉| **Noora Ali**  |N/A| **5** |
+|🥉| **Muhammad Mustafa**  |N/A| **5** |
+|🥉| **Hamda Alali**  |N/A| **5** |
+|🥉| **Hasan Alshehhi**  |N/A| **5** |
+|🥉| **Ahmed Albakr**  |N/A| **5** |
 </details>
 
 ![](crew.gif)
