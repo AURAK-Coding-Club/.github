@@ -76,6 +76,7 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 | **7**| **Lina Abdalmajeed**  | **10** |
 | **7**|  **Abin Devarajan**  | **10** |
 | **7**| **Nada Mohamed**  | **10** |
+| **7**| **Kamel Mostafa**  | **10** |
 | **8**| **Yousef Al Hayek**  | **5** |
 | **8**| **Kirubel Mamo**  | **5** |
 | **8**| **Abdelrahman Ahmed**  | **5** |
@@ -95,6 +96,7 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 |🥈| **Ahmed Abuhajjaj**   | **10** |
 |🥈| **Maram Sabri**  | **10** |
 |🥈| **Abdullah Yousef**  | **10** |
+|🥈| **Kamel Mostafa**  | **10** |
 |🥉| **Hassan Mashaal**  | **5** |
 |🥉| **Ali Aldahmani**  | **5** |
 |🥉| **Ahaad Seif**  | **5** |
