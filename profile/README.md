@@ -47,9 +47,9 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 <details>
   <summary> How to Collect Points</summary>
 
-- **(5 pts)** for voting on weekly Tech Talk polls.
+- **(5 pts)** for voting on Tech Talk polls and submitting memes.
 - **(10 pts)** for getting featured in the programming memes competition.
-- **(10 pts)** for attending fortnightly Dev Discussions.
+- **(10 pts)** for attending Dev Discussions.
 - **(10 pts)** for engaging in any requested volunteering activities.
 - **(15 pts)** for getting 1st place in typeathons.
 - **(15 pts)** for getting 1st place in a mentimeter question.
@@ -76,7 +76,7 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 | **7**| **Lina Abdalmajeed**  | **10** |
 | **7**|  **Abin Devarajan**  | **10** |
 | **7**| **Nada Mohamed**  | **10** |
-| **7**| **Kamel Mostafa**  | **10** |
+| **8**| **Kamel Mostafa**  | **5** |
 | **8**| **Yousef Al Hayek**  | **5** |
 | **8**| **Kirubel Mamo**  | **5** |
 | **8**| **Abdelrahman Ahmed**  | **5** |
@@ -96,15 +96,17 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 |🥈| **Ahmed Abuhajjaj**   | **10** |
 |🥈| **Maram Sabri**  | **10** |
 |🥈| **Abdullah Yousef**  | **10** |
-|🥈| **Kamel Mostafa**  | **10** |
+|🥈| **Ali Aldahmani**  | **10** |
+|🥉| **Kamel Mostafa**  | **5** |
+|🥉| **Mazen Eltawil**  | **5** |
 |🥉| **Hassan Mashaal**  | **5** |
-|🥉| **Ali Aldahmani**  | **5** |
 |🥉| **Ahaad Seif**  | **5** |
 |🥉| **Muhammad Mbarak**  | **5** |
 |🥉| **Sulaiman Qeer**  | **5** |
 |🥉| **Asma Aldhaibani**  | **5** |
 |🥉| **Areeba Atique**  | **5** |
 |🥉| **Abdulla Alshehhi**  | **5** |
+|🥉| **Muhammed Shafi**  | **5** |
 |🥉| **Maryam Abdelrahman**  | **5** |
 |🥉| **Ahmed Salmi**  | **5** |
 |🥉| **Noora Ali**  | **5** |
