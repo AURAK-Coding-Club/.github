@@ -63,24 +63,24 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 
 | Rank | Member     |Major | Score |
 |:----:|:----------:|:-----:|:-----:|
-|🏆| **Ahmed Abuhajjaj**   |N/A| **55** |
-|🥈| **Muhammad Mbarak**  |N/A| **40** |
-|🥈| **Maram Sabri**  |N/A| **40** |
-|🥉| **Abdulghani Sabbagh**  |  Computer Engineering |**35** |
-| **4**| **Zohaa Khan** |N/A| **30** |
-| **5**| **Fares Masarani**  |N/A| **20** |
-| **5**| **Hinad Fransis**  |  Artificial Intelligence |**20** |
+|🏆| **Ahmed Abuhajjaj**   | Artificial Intelligence | **55** |
+|🥈| **Muhammad Mbarak**  | Artificial Intelligence | **40** |
+|🥈| **Maram Sabri**  | Artificial Intelligence | **40** |
+|🥉| **Abdulghani Sabbagh**  | Computer Engineering |**35** |
+| **4**| **Zohaa Khan** | Mass Communication | **30** |
+| **5**| **Fares Masarani**  | Artificial Intelligence | **20** |
+| **5**| **Hinad Fransis**  | Artificial Intelligence |**20** |
 | **6**| **Urita Sadallah**| Computer Science | **15** |
-| **6**| **Abdullah Yousef**  |N/A| **15** |
+| **6**| **Abdullah Yousef**  | Computer Engineering| **15** |
 | **6**| **Asma Aldhaibani**  | Computer Engineering | **15** |
-| **7**| **Lina Abdalmajeed**  |N/A| **10** |
-| **7**|  **Abin Devarajan**  |N/A| **10** |
+| **7**| **Lina Abdalmajeed** | Artificial Intelligence | **10** |
+| **7**|  **Abin Devarajan**  | Computer Engineering | **10** |
 | **7**| **Nada Mohamed**  | Computer Engineering | **10** |
 | **8**| **Kamel Mostafa**  |N/A| **5** |
-| **8**| **Yousef Al Hayek**  |N/A| **5** |
-| **8**| **Kirubel Mamo**  |N/A| **5** |
+| **8**| **Yousef Al Hayek**  | Artificial Intelligence | **5** |
+| **8**| **Kirubel Mamo**  | Computer Science | **5** |
 | **8**| **Abdelrahman Ahmed**  |N/A| **5** |
-| **8**| **Aqsa Malik**  |N/A| **5** |
+| **8**| **Aqsa Malik**  | Computer Science | **5** |
 | **8**| **Ahaad Seif**  |N/A| **5** |
 
 </details>
@@ -92,28 +92,28 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 |:----:|:----------:|:-----:|:-----:|
 |🏆| **Abdulghani Sabbagh** | Computer Engineering | **65** |
 |🥈| **Tia Othman**  | Artificial Intelligence | **10** | 
-|🥈| **Zohaa Khan**  |N/A| **10** |
-|🥈| **Ahmed Abuhajjaj**   |N/A| **10** |
+|🥈| **Zohaa Khan**  | Mass Communication | **10** |
+|🥈| **Ahmed Abuhajjaj**   | Artificial Intelligence | **10** |
 |🥈| **Maram Sabri**  | Artificial Intelligence |**10** |
-|🥈| **Abdullah Yousef**  |N/A| **10** |
-|🥈| **Ali Aldahmani**  |N/A| **10** |
+|🥈| **Abdullah Yousef**  | Computer Engineering | **10** |
+|🥈| **Ali Aldahmani**  | Artificial Intelligence | **10** |
 |🥉| **Kamel Mostafa**  |N/A| **5** |
-|🥉| **Mazen Eltawil**  |N/A| **5** |
-|🥉| **Hassan Mashaal**  |N/A| **5** |
+|🥉| **Mazen Eltawil**  | Artificial Intelligence | **5** |
+|🥉| **Hassan Mashaal**  | Electrical Engineering | **5** |
 |🥉| **Ahaad Seif**  |N/A| **5** |
-|🥉| **Muhammad Mbarak**  |N/A| **5** |
-|🥉| **Sulaiman Qeer**  |N/A| **5** |
+|🥉| **Muhammad Mbarak**  | Artificial Intelligence | **5** |
+|🥉| **Sulaiman Qeer**  | Artificial Intelligence | **5** |
 |🥉| **Asma Aldhaibani**  | Computer Engineering | **5** |
-|🥉| **Areeba Atique**  |N/A| **5** |
-|🥉| **Abdulla Alshehhi**  |N/A| **5** |
+|🥉| **Areeba Atique**  | Computer Science | **5** |
+|🥉| **Abdulla Alshehhi**  | Artificial Intelligence | **5** |
 |🥉| **Muhammed Shafi**  | Computer Engineering | **5** |
 |🥉| **Maryam Abdelrahman**  |N/A| **5** |
 |🥉| **Ahmed Salmi**  |N/A| **5** |
 |🥉| **Noora Ali**  |N/A| **5** |
 |🥉| **Muhammad Mustafa**  |N/A| **5** |
-|🥉| **Hamda Alali**  |N/A| **5** |
+|🥉| **Hamda Alali**  | Artificial Intelligence | **5** |
 |🥉| **Hasan Alshehhi**  |N/A| **5** |
-|🥉| **Ahmed Albakr**  |N/A| **5** |
+|🥉| **Ahmed Albakr**  | Artificial Intelligence | **5** |
 </details>
 
 ![](crew.gif)
