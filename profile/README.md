@@ -121,11 +121,11 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 Current Team [Spring 2024 - Present]
 | Role                  | Name              | Responsibilities                    |
 |-----------------------|-------------------|-------------------------------------|
-| **President**         | [Nour Mostafa](https://github.com/Nour-MK)  (CE)    | Overseeing all team operations and planning events. <br> Reporting to Clubs Committee. |
-| **Vice President**    | [Youssef Azizeldin](https://github.com/YoussefAzizeldin) (AI)      | Assisting the President. <br> Doubling as an outreach coordinator. |
-| **Ideator**           | [Mohammed Alshamsi](https://github.com/M-Alshamsi) (CS) | Generating new initiatives. <br> Preparing and curating the Dev Discussions' materials. |
-| **Graphic Designer**  | [Mohamed Abouissa](https://github.com/Mohamed-Abouissa) (CE)  | Creating visual content <br> (i.e. Dev Discussions agendas, Review Rounds thumbnails, Tech Talk magazine.) |
-| **Social Media Manager** | [Hazim Anwar](https://github.com/win-x-u-r)  (CE)  | Managing our YouTube channel (Review Rounds & Coding Club Commends). <br> Preparing and curating our weekly Tech Talks. |
+| **President**         | [Nour Mostafa](https://github.com/Nour-MK) <br> Computer Engineering    | Overseeing all team operations and planning events. <br> Reporting to Clubs Committee. |
+| **Vice President**    | [Youssef Azizeldin](https://github.com/YoussefAzizeldin) <br> Artificial Intelligence      | Assisting the President. <br> Doubling as an outreach coordinator. |
+| **Ideator**           | [Mohammed Alshamsi](https://github.com/M-Alshamsi) <br> Computer Science | Generating new initiatives. <br> Preparing and curating the Dev Discussions' materials. |
+| **Graphic Designer**  | [Mohamed Abouissa](https://github.com/Mohamed-Abouissa) <br> Computer Engineering  | Creating visual content <br> (i.e. Dev Discussions agendas, Review Rounds thumbnails, Tech Talk magazine.) |
+| **Social Media Manager** | [Hazim Anwar](https://github.com/win-x-u-r) <br>  Computer Engineering  | Managing our YouTube channel (Review Rounds & Coding Club Commends). <br> Preparing and curating our weekly Tech Talks. |
 
 <details>
   <summary>Ex-Team [Fall 2022 - Spring 2023]</summary>
