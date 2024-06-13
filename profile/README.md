@@ -60,6 +60,7 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 
 <details>
   <summary>[Archived] Spring 2024</summary>
+<br>
 
 | Rank | Member     |Major | Score |
 |:----:|:----------:|:-----:|:-----:|
@@ -87,6 +88,8 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 
 <details>
   <summary>[Ongoing] Summer 2024</summary>
+  
+<br>
 
 | Rank | Member     | Major | Score |
 |:----:|:----------:|:-----:|:-----:|
@@ -115,6 +118,11 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 |🥉| **Hasan Alshehhi**  |N/A| **5** |
 |🥉| **Ahmed Albakr**  | Artificial Intelligence | **5** |
 </details>
+
+
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Computer Science** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Computer Engineering** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Artificial Intelligence** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|:----:|:----------:|:-----:|
+| 10 pts | 10 pts | 10 pts |
 
 ![](crew.gif)
 
