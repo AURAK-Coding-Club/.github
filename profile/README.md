@@ -133,6 +133,7 @@ Current Team [Spring 2024 - Present]
 | **Vice President**    | [Youssef Azizeldin](https://github.com/YoussefAzizeldin)  | Assisting the President. <br> Doubling as an outreach coordinator. |
 | **Ideator**           | [Mohammed Alshamsi](https://github.com/M-Alshamsi) | Generating new initiatives. <br> Preparing and curating the Dev Discussions' materials. |
 | **Graphic Designer**  | [Mohamed Abouissa](https://github.com/Mohamed-Abouissa) | Creating visual content <br> (i.e. Dev Discussions agendas, Review Rounds thumbnails, Tech Talk magazine.) |
+| **Graphic Designer**  | [Zohaa Khan](https://github.com/Zohaax) | Creating visual content <br> (i.e. Dev Discussions agendas, Review Rounds thumbnails, Tech Talk magazine.) |
 | **Social Media Manager** | [Hazim Anwar](https://github.com/win-x-u-r)  | Managing our YouTube channel (Review Rounds & Coding Club Commends). <br> Preparing and curating our weekly Tech Talks. |
 
 <details>
