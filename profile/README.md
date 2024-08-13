@@ -31,7 +31,8 @@ The club brings together tech enthusiasts for a range of exciting activities tha
   <summary> [Ongoing] Summer 2024 </summary>
 
 - [x] Hire a team of reviewers for Review Rounds.
-- [x] Rebrand Tech Talk as a magazine. 
+- [x] Rebrand Tech Talk as a magazine.
+- [x] Books & Bytes collab with the Book Club. Created a tech-themed summer reading list and hosted a reflective discussion. 
 
 **Total number of Tech Talks posted: 1** <br>
 **Total number of Dev Discussions hosted: 0** <br>
