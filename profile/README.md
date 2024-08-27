@@ -32,6 +32,7 @@ The club brings together tech enthusiasts for a range of exciting activities tha
 
 - [x] Hire a team of reviewers for Review Rounds.
 - [x] Rebrand Tech Talk as a magazine.
+- [x] Hire a graphic designer.
 - [x] Books & Bytes collab with the Book Club. Created a tech-themed summer reading list and hosted an online reflective discussion. 
 
 **Total number of Tech Talks posted: 9** <br>
