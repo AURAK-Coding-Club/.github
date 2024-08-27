@@ -32,12 +32,12 @@ The club brings together tech enthusiasts for a range of exciting activities tha
 
 - [x] Hire a team of reviewers for Review Rounds.
 - [x] Rebrand Tech Talk as a magazine.
-- [x] Books & Bytes collab with the Book Club. Created a tech-themed summer reading list and hosted a reflective discussion. 
+- [x] Books & Bytes collab with the Book Club. Created a tech-themed summer reading list and hosted an online reflective discussion. 
 
-**Total number of Tech Talks posted: 1** <br>
+**Total number of Tech Talks posted: 9** <br>
 **Total number of Dev Discussions hosted: 0** <br>
 **Total number of Review Rounds posted: 2** <br>
-**Total number of events organized: 0** <br>
+**Total number of events organized: 1** <br>
 **Total amount of budget used: 0 AED** <br>
 </details>
 
@@ -88,36 +88,51 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 </details>
 
 <details>
-  <summary>[Ongoing] Summer 2024</summary>
+  <summary>[Archieved] Summer 2024</summary>
   
 <br>
 
 | Rank | Member     | Major | Score |
 |:----:|:----------:|:-----:|:-----:|
-|🏆| **Abdulghani Sabbagh** | Computer Engineering | **65** |
-|🥈| **Tia Othman**  | Artificial Intelligence | **10** | 
-|🥈| **Zohaa Khan**  | Mass Communication | **10** |
-|🥈| **Ahmed Abuhajjaj**   | Artificial Intelligence | **10** |
-|🥈| **Maram Sabri**  | Artificial Intelligence |**10** |
-|🥈| **Abdullah Yousef**  | Computer Engineering | **10** |
-|🥈| **Ali Aldahmani**  | Artificial Intelligence | **10** |
-|🥉| **Kamel Mostafa**  |N/A| **5** |
-|🥉| **Mazen Eltawil**  | Artificial Intelligence | **5** |
-|🥉| **Hassan Mashaal**  | Electrical Engineering | **5** |
-|🥉| **Ahaad Seif**  |N/A| **5** |
-|🥉| **Muhammad Mbarak**  | Artificial Intelligence | **5** |
-|🥉| **Sulaiman Qeer**  | Artificial Intelligence | **5** |
-|🥉| **Asma Aldhaibani**  | Computer Engineering | **5** |
-|🥉| **Areeba Atique**  | Computer Science | **5** |
-|🥉| **Abdulla Alshehhi**  | Artificial Intelligence | **5** |
-|🥉| **Muhammed Shafi**  | Computer Engineering | **5** |
-|🥉| **Maryam Abdelrahman**  |N/A| **5** |
-|🥉| **Ahmed Salmi**  |N/A| **5** |
-|🥉| **Noora Ali**  |N/A| **5** |
-|🥉| **Muhammad Mustafa**  |N/A| **5** |
-|🥉| **Hamda Alali**  | Artificial Intelligence | **5** |
-|🥉| **Hasan Alshehhi**  |N/A| **5** |
-|🥉| **Ahmed Albakr**  | Artificial Intelligence | **5** |
+|🏆| **Abdulghani Sabbagh** | Computer Engineering | **75** |
+|🥈| **Maram Sabri**  | Artificial Intelligence |**35** |
+|🥉| **Asma Aldhaibani**  | Computer Engineering | **20** |
+| 4 | **Abdullah Yousef**  | Computer Engineering | **15** |
+| 4 | **Ali Aldahmani**  | Artificial Intelligence | **15** |
+| 4 | **Urita Sadallah**  | Computer Science | **15** |
+| 4 | **Sulaiman Qeer**  | Artificial Intelligence | **15** |
+| 4 | **Mohamed Abouissa**  | Computer Engineering | **15** |
+| 6 | **Ahaad Hussein**  | Computer Science | **15** |
+| 5 | **Tia Othman**  | Artificial Intelligence | **10** | 
+| 5 | **Zohaa Khan**  | Mass Communication | **10** |
+| 5 | **Ahmed Abuhajjaj**   | Artificial Intelligence | **10** |
+| 5 | **Kamel Mostafa**  | Computer Engineering | **10** |
+| 5 | **Samar Assaf**  | Artificial Intelligence | **10** |
+| 6 | **Mazen Eltawil**  | Artificial Intelligence | **5** |
+| 6 | **Muhammad Mbarak**  | Artificial Intelligence | **5** |
+| 6 | **Hassan Mashaal**  | Electrical Engineering | **5** |
+| 6 | **Areeba Atique**  | Computer Science | **5** |
+| 6 | **Abdulla Alshehhi**  | Artificial Intelligence | **5** |
+| 6 | **Muhammed Shafi**  | Computer Engineering | **5** |
+| 6 | **Hamda Alali**  | Artificial Intelligence | **5** |
+| 6 | **Khaula Khamis**  | Computer Science | **5** |
+| 6 | **Ahmed Albakr**  | Artificial Intelligence | **5** |
+| 6 | **Muhammad Mustafa**  |N/A| **5** |
+| 6 | **Maryam Abdelrahman**  |N/A| **5** |
+| 6 | **Noora Ali**  |N/A| **5** |
+| 6 | **Hasan Alshehhi**  |N/A| **5** |
+| 6 | **Ahmed Salmi**  |N/A| **5** |
+
+</details>
+
+<details>
+  <summary>[Ongoing] Fall 2024</summary>
+  
+<br>
+
+| Rank | Member     | Major | Score |
+|:----:|:----------:|:-----:|:-----:|
+|🏆| **Abdulghani Sabbagh** | Computer Engineering | **20** |
 </details>
 
 
