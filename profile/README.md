@@ -28,7 +28,7 @@ The club brings together tech enthusiasts for a range of exciting activities tha
 </details>
 
 <details>
-  <summary> [Ongoing] Summer 2024 </summary>
+  <summary> [Archieved] Summer 2024 </summary>
 
 - [x] Hire a team of reviewers for Review Rounds.
 - [x] Rebrand Tech Talk as a magazine.
@@ -38,6 +38,16 @@ The club brings together tech enthusiasts for a range of exciting activities tha
 **Total number of Dev Discussions hosted: 0** <br>
 **Total number of Review Rounds posted: 2** <br>
 **Total number of events organized: 1** <br>
+**Total amount of budget used: 0 AED** <br>
+</details>
+
+<details>
+  <summary> [Ongoing] Fall 2024 </summary>
+
+**Total number of Tech Talks posted: 0** <br>
+**Total number of Dev Discussions hosted: 0** <br>
+**Total number of Review Rounds posted: 0** <br>
+**Total number of events organized: 0** <br>
 **Total amount of budget used: 0 AED** <br>
 </details>
 
