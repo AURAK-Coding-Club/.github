@@ -28,7 +28,7 @@ The club brings together tech enthusiasts for a range of exciting activities tha
 </details>
 
 <details>
-  <summary> [Archieved] Summer 2024 </summary>
+  <summary> [Archived] Summer 2024 </summary>
 
 - [x] Hire a team of reviewers for Review Rounds.
 - [x] Rebrand Tech Talk as a magazine.
