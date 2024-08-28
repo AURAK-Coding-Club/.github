@@ -99,7 +99,7 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 </details>
 
 <details>
-  <summary>[Archieved] Summer 2024</summary>
+  <summary>[Archived] Summer 2024</summary>
   
 <br>
 
