@@ -95,12 +95,11 @@ As of Fall 2024, the points accumulate through a binary-themed multiplier system
 | **7**| **Lina Abdalmajeed** | Artificial Intelligence | **10** |
 | **7**|  **Abin Devarajan**  | Computer Engineering | **10** |
 | **7**| **Nada Mohamed**  | Computer Engineering | **10** |
-| **8**| **Kamel Mostafa**  |N/A| **5** |
+| **8**| **Kamel Mostafa**  | Computer Engineering | **5** |
 | **8**| **Yousef Al Hayek**  | Artificial Intelligence | **5** |
 | **8**| **Kirubel Mamo**  | Computer Science | **5** |
-| **8**| **Abdelrahman Ahmed**  |N/A| **5** |
 | **8**| **Aqsa Malik**  | Computer Science | **5** |
-| **8**| **Ahaad Seif**  |N/A| **5** |
+| **8**| **Ahaad Hussein**  | Computer Science | **5** |
 
 </details>
 
@@ -134,11 +133,6 @@ As of Fall 2024, the points accumulate through a binary-themed multiplier system
 | 6 | **Hamda Alali**  | Artificial Intelligence | **5** |
 | 6 | **Khaula Khamis**  | Computer Science | **5** |
 | 6 | **Ahmed Albakr**  | Artificial Intelligence | **5** |
-| 6 | **Muhammad Mustafa**  |N/A| **5** |
-| 6 | **Maryam Abdelrahman**  |N/A| **5** |
-| 6 | **Noora Ali**  |N/A| **5** |
-| 6 | **Hasan Alshehhi**  |N/A| **5** |
-| 6 | **Ahmed Salmi**  |N/A| **5** |
 
 </details>
 
