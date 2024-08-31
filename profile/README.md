@@ -149,7 +149,7 @@ As of Fall 2024, the points accumulate through a binary-themed multiplier system
 
 | Rank | Member     | Major | Score |
 |:----:|:----------:|:-----:|:-----:|
-|🏆| **Abdulghani Sabbagh** | Computer Engineering | **20** |
+|🏆| **Abdulghani Sabbagh** | Computer Engineering | **16** |
 </details>
 
 
