@@ -57,17 +57,23 @@ The club brings together tech enthusiasts for a range of exciting activities tha
 This is a semesterly competitive leaderboard set to foster student engagement in club activities. Top 3 ranks will be awarded Coding Club Tech Titan certificates from AURAK's Department of Computer Science & Engineering.
 
 <details>
-  <summary> How to Collect Points</summary>
+  <summary> Reward & Penalty System</summary>
+  
+As of Fall 2024, the points accumulate through a binary-themed multiplier system. Every member of the club starts at 1 by default and enters the leaderboard once they activate a multiplier. Keep an eye out for the penalty system!
 
-- **(5 pts)** for voting on Tech Talk polls and submitting memes.
-- **(10 pts)** for getting featured in the programming memes competition.
-- **(10 pts)** for attending Dev Discussions.
-- **(10 pts)** for engaging in any requested volunteering activities.
-- **(15 pts)** for getting 1st place in typeathons.
-- **(15 pts)** for getting 1st place in a mentimeter question.
-- **(15 pts)** for participating in official coding club competitions.
-- **(20 pts)** for submitting a project to showcase in Dev Discussions.
-- **(25 pts)** for winning a 1st, 2nd, or 3rd place in official coding club competitions.
+- **(pts x 2)** for voting on Tech Talk polls and submitting memes.
+- **(pts x 4)** for getting featured in the programming memes competition.
+- **(pts x 4)** for attending Dev Discussions.
+- **(pts x 4)** for engaging in any requested volunteering activities.
+- **(pts x 8)** for getting 1st place in typeathons.
+- **(pts x 8)** for getting 1st place in a mentimeter question.
+- **(pts x 8)** for participating in official coding club competitions.
+- **(pts x 16)** for submitting a project to showcase in Dev Discussions.
+- **(pts x 32)** for winning a 1st, 2nd, or 3rd place in official coding club competitions.
+- **(pts / 2)** for failing to meet the responsibilities of a volunteer position within the club.
+- **(pts / 4)** for repeatedly ignoring club guidelines or expectations.
+- **(pts / 8)** for plagiarism or cheating in any club competitions or events.
+
 </details>
 
 <details>
@@ -107,6 +113,7 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 |:----:|:----------:|:-----:|:-----:|
 |🏆| **Abdulghani Sabbagh** | Computer Engineering | **75** |
 |🥈| **Maram Sabri**  | Artificial Intelligence |**35** |
+|🥈| **Kamel Mostafa**  | Computer Engineering | **35** |
 |🥉| **Asma Aldhaibani**  | Computer Engineering | **20** |
 | 4 | **Abdullah Yousef**  | Computer Engineering | **15** |
 | 4 | **Ali Aldahmani**  | Artificial Intelligence | **15** |
@@ -117,7 +124,6 @@ This is a semesterly competitive leaderboard set to foster student engagement in
 | 5 | **Tia Othman**  | Artificial Intelligence | **10** | 
 | 5 | **Zohaa Khan**  | Mass Communication | **10** |
 | 5 | **Ahmed Abuhajjaj**   | Artificial Intelligence | **10** |
-| 5 | **Kamel Mostafa**  | Computer Engineering | **10** |
 | 5 | **Samar Assaf**  | Artificial Intelligence | **10** |
 | 6 | **Mazen Eltawil**  | Artificial Intelligence | **5** |
 | 6 | **Muhammad Mbarak**  | Artificial Intelligence | **5** |
