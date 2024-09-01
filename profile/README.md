@@ -45,6 +45,9 @@ The club brings together tech enthusiasts for a range of exciting activities tha
 <details>
   <summary> [Ongoing] Fall 2024 </summary>
 
+- [x] Participate in AURAK's club fair.
+- [x] Renovate the Tech Titans Rewards & Penalties system.  
+
 **Total number of Tech Talks posted: 0** <br>
 **Total number of Dev Discussions hosted: 0** <br>
 **Total number of Review Rounds posted: 0** <br>
