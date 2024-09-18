@@ -166,7 +166,7 @@ Current Team [Spring 2024 - Present]
 | **Ideator**           | [Mohammed Alshamsi](https://github.com/M-Alshamsi) | Generating new initiatives. <br> Preparing and curating the Dev Discussions' materials. |
 | **Graphic Designer**  | [Mohamed Abouissa](https://github.com/Mohamed-Abouissa) | Creating visual content <br> (i.e. Dev Discussions agendas, Review Rounds thumbnails, Tech Talk magazine.) |
 | **Graphic Designer**  | [Zohaa Khan](https://github.com/Zohaax) | Creating visual content <br> (i.e. Dev Discussions agendas, Review Rounds thumbnails, Tech Talk magazine.) |
-| **Videographer**  | [Muhammad Mustafa](https://www.behance.net/mrshark25) | Creating visual promotional content.  |
+| **Videographer**  | [Muhammad Mustafa](https://www.behance.net/mrshark25) | Creating visual promotional content. <br> Coverage footage for the club's events and initiatives. |
 | **Social Media Manager** | [Hazim Anwar](https://github.com/win-x-u-r)  | Managing our YouTube channel (Review Rounds & Coding Club Commends). <br> Preparing and curating our weekly Tech Talks. |
 
 <details>
