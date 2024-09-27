@@ -187,4 +187,4 @@ Our club upholds a set of principles to foster a positive and inclusive environm
 
 We value your feedback! If you have any suggestions or ideas for improving the coding club's activities and events, please share them by reaching out to us. Your input helps our team enhance the club experience for all members.
 
-To apply as a crew member, please visit https://docs.google.com/forms/d/134o8TTd5PHuxOQBgE31H91YpiyGFyZ9guDSMdyJWGeg.
+To apply as a crew member, please visit https://forms.gle/ihToNcZaPbEqnthu5
