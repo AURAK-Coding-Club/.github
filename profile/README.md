@@ -160,11 +160,11 @@ As of Fall 2024, the points accumulate through a binary-themed multiplier system
 |**9**| **Abdullah Yousef**  | Computer Engineering | **256** |
 |**9**| **Urita Sadallah**  | Computer Science | **256** |
 |**10**| **Litik Aswani**  | - | **128** |
-|**10**| **Alex**  | - | **128** |
+|**10**| **Alex**  | - | **32768** |
 |**11**| **Aashif**  | - | **64** |
-|**11**| **Karam Al Tawashi**  | - | **64** |
-|**12**| **Basheer**  | - | **32** |
-|**12**| **Loai**  | - | **32** |
+|**11**| **Karam Al Tawashi**  | Mechanical Engineering | **64** |
+|**12**| **Basheer**  | Artificial Intelligence | **8192** |
+|**12**| **Loai**  | Chemical Engineering | **256** |
 |**14**| **Ahaad Seif**  | - | **32** |
 |**13**| **Hinad Fransis**  | Artificial Intelligence |**16** |
 |**13**| **Taha Tunkiwala**  | - | **16** |
@@ -172,9 +172,16 @@ As of Fall 2024, the points accumulate through a binary-themed multiplier system
 |**15**| **Abinraj Bhaskaran**  | - | **16** |
 |**13**| **Omar Alnuaimi**  | - | **16** |
 |**14**| **Yousef Al Hayek**  | Artificial Intelligence | **8** |
-|**14**| **Mahmoud Khalaf**  | - | **8** |
+|**14**| **Mahmoud Khalaf**  | Artificial Intelligence | **32** |
 |**14**| **Eisa Hafiz**  | - | **8** |
+|**14**| **Fazil**  | Computer Engineering | **8** |
+|**14**| **Andrey**  | Computer Science | **8** |
+|**14**| **Lougin**  | Architecture | **8** |
+|**14**| **Farah**  | Business | **8** |
+|**14**| **Mariam Awad**  | Biotechnology | **8** |
 |**16**| **Hamza Khalid**  | - | **8** |
+|**16**| **Mohamed Abusaada**  | Computer Engineering | **8** |
+|**16**| **Areej**  | Biotechnology | **8** |
 |**15**| **Bashar Ali**  | - | **4** |
 |**15**| **Areedah**  | - | **4** |
 |**15**| **Venkata Sivamani**  | - | **4** |
