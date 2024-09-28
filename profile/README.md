@@ -66,7 +66,7 @@ This is a semesterly competitive leaderboard set to foster student engagement in
   
 As of Fall 2024, the points accumulate through a binary-themed multiplier system. Every member of the club starts at 1 by default and enters the leaderboard once they activate a multiplier. Keep an eye out for the penalty system!
 
-- **(pts x 2)** for voting on Tech Talk polls and submitting memes.
+- **(pts x 2)** for voting on Tech Talk polls and staying engaged.
 - **(pts x 4)** for getting featured in the programming memes competition.
 - **(pts x 4)** for attending Dev Discussions.
 - **(pts x 4)** for engaging in any requested volunteering activities.
@@ -148,7 +148,51 @@ As of Fall 2024, the points accumulate through a binary-themed multiplier system
 
 | Rank | Member     | Major | Score |
 |:----:|:----------:|:-----:|:-----:|
-|🏆| **Abdulghani Sabbagh** | Computer Engineering | **16** |
+|🏆| **Hassan Khalloof**  | Artificial Intelligence | **137,438,953,472** |
+|🥈| **Abdulghani Sabbagh** | Computer Engineering | **1,073,741,824** |
+|🥉| **Fares Masarani**  | Artificial Intelligence | **67,108,864** |
+|**4**| **Maram Sabri**  | Artificial Intelligence |**8,388,608** |
+|**5**| **Arsh Khan**  | - | **524,288** |
+|**6**| **Ahmed Abuhajjaj**   | Artificial Intelligence | **8,192** |
+|**7**| **Sadiq**  | - | **1,024** |
+|**8**| **Kamel Mostafa**  | Computer Engineering | **512** |
+|**9**| **Nada Elkadi**  | Computer Science | **256** |
+|**9**| **Abdullah Yousef**  | Computer Engineering | **256** |
+|**9**| **Urita Sadallah**  | Computer Science | **256** |
+|**10**| **Litik Aswani**  | - | **128** |
+|**10**| **Alex**  | - | **128** |
+|**11**| **Aashif**  | - | **64** |
+|**11**| **Karam Al Tawashi**  | - | **64** |
+|**12**| **Basheer**  | - | **32** |
+|**12**| **Loai**  | - | **32** |
+|**13**| **Hinad Fransis**  | Artificial Intelligence |**16** |
+|**13**| **Taha**  | - | **16** |
+|**13**| **Edwin**  | - | **16** |
+|**13**| **Omar Alnuaimi**  | - | **16** |
+|**14**| **Ahaad Seif**  | - | **8** |
+|**14**| **Yousef Al Hayek**  | Artificial Intelligence | **8** |
+|**14**| **Mahmoud Khalaf**  | - | **8** |
+|**14**| **Eisa Hafiz**  | - | **8** |
+|**15**| **Abinraj Bhaskaran**  | - | **4** |
+|**15**| **Bashar Ali**  | - | **4** |
+|**15**| **Areedah**  | - | **4** |
+|**15**| **Abdulla Alshehhi**  | Artificial Intelligence | **4** |
+|**15**| **Yazan**  | - | **4** |
+|**15**| **Hasanul**  | - | **4** |
+|**16**| **Hamza**  | - | **2** |
+|**16**| **Mazen Eltawil**  | Artificial Intelligence | **2** |
+|**16**| **Mayed**  | - | **2** |
+|**16**| **Devananth**  | - | **2** |
+|**16**| **Ahmad**  | - | **2** |
+|**16**| **Ahmed**  | - | **2** |
+|**16**| **Anas Qaiser**  | - | **2** |
+|**16**| **Noor Mohamed**  | - | **2** |
+|**16**| **Youssef Nazzai**  | - | **2** |
+|**16**| **Sulaiman Qeer**  | Artificial Intelligence | **2** |
+|**16**| **Mahmoud**   | - | **2** |
+|**16**| **Rami**  | - | **2** |
+
+
 </details>
 
 
