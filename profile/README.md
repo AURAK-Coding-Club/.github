@@ -106,6 +106,13 @@ As of Fall 2024, the points accumulate through a binary-themed multiplier system
 | **8**| **Aqsa Malik**  | Computer Science | **5** |
 | **8**| **Ahaad Hussein**  | Computer Science | **5** |
 
+| Rank | Major | Score |
+|:----:|:----------:|:-----:|
+|🏆| **Artificial Intelligence**   | **190** |
+|🥈| **Computer Engineering**  | **90** |
+|🥉| **Mass Communication**   | **30** |
+|🥉| **Computer Science**   |**30** |
+
 </details>
 
 <details>
@@ -139,6 +146,14 @@ As of Fall 2024, the points accumulate through a binary-themed multiplier system
 | 6 | **Khaula Khamis**  | Computer Science | **5** |
 | 6 | **Ahmed Albakr**  | Artificial Intelligence | **5** |
 
+| Rank | Major | Score |
+|:----:|:----------:|:-----:|
+|🏆| **Computer Engineering**   | **165** |
+|🥈| **Artificial Intelligence**  | **110** |
+|🥉| **Computer Science**   | **40** |
+|**4**| **Mass Communication**   |**10** |
+|**5**| **Electrical Engineering** | **5** |
+
 </details>
 
 <details>
@@ -152,90 +167,103 @@ As of Fall 2024, the points accumulate through a binary-themed multiplier system
 |🥈| **Abdulghani Sabbagh** | Computer Engineering | **1,073,741,824** |
 |🥉| **Fares Masarani**  | Artificial Intelligence | **67,108,864** |
 |**4**| **Maram Sabri**  | Artificial Intelligence |**33,554,432** |
-|**5**| **Arsh Khan**  | - | **2,097,152** |
+|**5**| **Arsh Khan**  | Mechanical Engineering | **2,097,152** |
 |**6**| **Ahmed Abuhajjaj**   | Artificial Intelligence | **32,768** |
-|**6**| **Sadiq**  | - | **32,768** |
-|**6**| **Alex**  | - | **32,768** |
+|**6**| **Sadiq**  | N/A | **32,768** |
+|**6**| **Alex**  | N/A | **32,768** |
 |**7**| **Basheer**  | Artificial Intelligence | **8,192** |
 |**7**| **Urita Sadallah**  | Computer Science | **8,192** |
 |**8**| **Kamel Mostafa**  | Computer Engineering | **2,048** |
 |**9**| **Nada Elkadi**  | Computer Science | **1024** |
 |**10**| **Abdullah Yousef**  | Computer Engineering | **256** |
 |**10**| **Loai**  | Chemical Engineering | **256** |
-|**11**| **Litik Aswani**  | - | **128** |
-|**12**| **Aashif**  | - | **64** |
+|**11**| **Litik Aswani**  | Artificial Intelligence | **128** |
+|**12**| **Aashif**  | Electrical Engineering | **64** |
 |**12**| **Karam Al Tawashi**  | Mechanical Engineering | **64** |
-|**13**| **Ahaad Seif**  | - | **32** |
+|**13**| **Ahaad Seif**  | Computer Science | **32** |
 |**13**| **Mahmoud Khalaf**  | Artificial Intelligence | **32** |
 |**14**| **Hinad Fransis**  | Artificial Intelligence |**16** |
-|**14**| **Taha Tunkiwala**  | - | **16** |
-|**14**| **Edwin**  | - | **16** |
-|**14**| **Abinraj Bhaskaran**  | - | **16** |
-|**14**| **Omar Alnuaimi**  | - | **16** |
+|**14**| **Taha Tunkiwala**  | Computer Engineering | **16** |
+|**14**| **Edwin**  | Computer Engineering | **16** |
+|**14**| **Abinraj Bhaskaran**  | Computer Engineering | **16** |
+|**14**| **Omar Alnuaimi**  | Computer Engineering | **16** |
 |**15**| **Yousef Al Hayek**  | Artificial Intelligence | **8** |
-|**15**| **Eisa Hafiz**  | - | **8** |
+|**15**| **Eisa Hafiz**  | Computer Science | **8** |
 |**15**| **Fazil**  | Computer Engineering | **8** |
 |**15**| **Andrey**  | Computer Science | **8** |
 |**15**| **Lougin**  | Architecture | **8** |
 |**15**| **Farah**  | Business | **8** |
 |**15**| **Mariam Awad**  | Biotechnology | **8** |
-|**15**| **Hamza Khalid**  | - | **8** |
+|**15**| **Hamza Khalid**  | Computer Engineering | **8** |
 |**15**| **Mohamed Abusaada**  | Computer Engineering | **8** |
 |**15**| **Areej**  | Biotechnology | **8** |
-|**16**| **Bashar Ali**  | - | **4** |
-|**16**| **Areedah**  | - | **4** |
-|**16**| **Venkata Sivamani**  | - | **4** |
-|**16**| **Nada Osama Mohamed**  | - | **4** |
-|**16**| **Sara Alshikh**  | - | **4** |
-|**16**| **Asma Aldhaibani**  | - | **4** |
-|**16**| **Mohamed Fazil Mohamed Anwar**  | - | **4** |
-|**16**| **Fatima Farooq**  | - | **4** |
-|**16**| **Khaula Mohammed Khamis**  | - | **4** |
-|**16**| **Nada Naser**  | - | **4** |
-|**16**| **Maryam Haris**  | - | **4** |
-|**16**| **Laiba Shahid**  | - | **4** |
-|**16**| **Rahmet Gudeta**  | - | **4** |
+|**16**| **Bashar Ali**  | N/A | **4** |
+|**16**| **Areedah**  | Artificial Intelligence | **4** |
+|**16**| **Venkata Sivamani**  | Computer Science | **4** |
+|**16**| **Nada Osama Mohamed**  | Computer Engineering | **4** |
+|**16**| **Sara Alshihh**  | Architecture | **4** |
+|**16**| **Asma Aldhaibani**  | Computer Engineering | **4** |
+|**16**| **Mohamed Fazil Mohamed Anwar**  | Computer Engineering | **4** |
+|**16**| **Fatima Farooq**  | Computer Engineering | **4** |
+|**16**| **Khaula Mohammed Khamis**  | Computer Science | **4** |
+|**16**| **Nada Naser**  | Computer Science | **4** |
+|**16**| **Maryam Haris**  | Computer Science | **4** |
+|**16**| **Laiba Shahid**  | Business | **4** |
+|**16**| **Rahmet Gudeta**  | Computer Science | **4** |
 |**16**| **Abdulla Alshehhi**  | Artificial Intelligence | **4** |
-|**16**| **Yazan**  | - | **4** |
-|**16**| **Hasanul**  | - | **4** |
-|**16**| **Sandra Chaar**  | - | **4** |
-|**16**| **Abijith Vathukkad**  | - | **4** |
-|**16**| **Blessy Binu**  | - | **4** |
-|**16**| **Habiba Selim**  | - | **4** |
-|**16**| **Mansoor Alshehhi**  | - | **4** |
-|**16**| **Rawan Rashid**  | - | **4** |
-|**16**| **Muhammed Rabeeh Mattath**  | - | **4** |
-|**16**| **Husain Para**  | - | **4** |
-|**16**| **Lojain Mohamed**  | - | **4** |
-|**16**| **Mayaz Bakoura**  | - | **4** |
-|**16**| **Loai Hassan**  | - | **4** |
-|**16**| **Mohammed Dawoud**  | - | **4** |
-|**16**| **Abdulla Osama Alsaeed**  | - | **4** |
-|**16**| **Hoor Abdelrahman**  | - | **4** |
-|**16**| **Samuel Joshy**  | - | **4** |
-|**16**| **Lana Zanneh**  | - | **4** |
-|**16**| **Muhammad Irtiza**  | - | **4** |
-|**16**| **Laith Al Homoud**  | - | **4** |
-|**16**| **Kenzy Osama**  | - | **4** |
-|**16**| **Hoor Khleifat**  | - | **4** |
-|**16**| **Yara Afifi**  | - | **4** |
-|**16**| **Bashar Odtallah**  | - | **4** |
-|**16**| **Farida Badawi**  | - | **4** |
-|**16**| **Sami Saadi**  | - | **4** |
-|**16**| **Ayman Bakroun**  | - | **4** |
-|**16**| **Haameed Fouzaan**  | - | **4** |
-|**16**| **Fatima Alam**  | - | **4** |
+|**16**| **Yazan**  | N/A | **4** |
+|**16**| **Hasanul**  | N/A | **4** |
+|**16**| **Sandra Chaar**  | Artificial Intelligence | **4** |
+|**16**| **Abijith Vathukkad**  | Computer Engineering | **4** |
+|**16**| **Blessy Binu**  | Computer Engineering | **4** |
+|**16**| **Habiba Selim**  | Computer Engineering | **4** |
+|**16**| **Mansoor Alshehhi**  | Artificial Intelligence | **4** |
+|**16**| **Rawan Rashid**  | Computer Science | **4** |
+|**16**| **Muhammed Rabeeh Mattath**  | Computer Science | **4** |
+|**16**| **Husain Para**  | Computer Science | **4** |
+|**16**| **Lojain Mohamed**  | Artificial Intelligence | **4** |
+|**16**| **Mayaz Bakoura**  | Computer Science | **4** |
+|**16**| **Loai Hassan**  | Chemical Engineering | **4** |
+|**16**| **Mohammed Dawoud**  | Artificial Intelligence | **4** |
+|**16**| **Abdulla Osama Alsaeed**  | Artificial Intelligence | **4** |
+|**16**| **Hoor Abdelrahman**  | Artificial Intelligence | **4** |
+|**16**| **Samuel Joshy**  | Mechanical Engineering | **4** |
+|**16**| **Lana Zanneh**  | Computer Science | **4** |
+|**16**| **Muhammad Irtiza**  | Computer Science | **4** |
+|**16**| **Laith Al Homoud**  | Computer Science | **4** |
+|**16**| **Kenzy Osama**  | Artificial Intelligence | **4** |
+|**16**| **Hoor Khleifat**  | Computer Engineering | **4** |
+|**16**| **Yara Afifi**  | Computer Science | **4** |
+|**16**| **Bashar Odtallah**  | Artificial Intelligence | **4** |
+|**16**| **Farida Badawi**  | N/A | **4** |
+|**16**| **Sami Saadi**  | Computer Science | **4** |
+|**16**| **Ayman Bakroun**  | Civil Engineering | **4** |
+|**16**| **Haameed Fouzaan**  | Artificial Intelligence | **4** |
+|**16**| **Fatima Alam**  | Computer Engineering | **4** |
 |**17**| **Mazen Eltawil**  | Artificial Intelligence | **2** |
-|**17**| **Mayed**  | - | **2** |
-|**17**| **Devananth**  | - | **2** |
-|**17**| **Ahmad**  | - | **2** |
-|**17**| **Ahmed**  | - | **2** |
-|**17**| **Anas Qaiser**  | - | **2** |
-|**17**| **Noor Mohamed**  | - | **2** |
-|**17**| **Youssef Nazzai**  | - | **2** |
+|**17**| **Mayed**  | N/A | **2** |
+|**17**| **Devananth**  | Mechanical Engineering | **2** |
+|**17**| **Ahmad**  | N/A | **2** |
+|**17**| **Ahmed**  | N/A | **2** |
+|**17**| **Anas Qaiser**  | Artificial Intelligence | **2** |
+|**17**| **Noor Mohamed**  | Artificial Intelligence | **2** |
+|**17**| **Youssef Nazzai**  | Artificial Intelligence | **2** |
 |**17**| **Sulaiman Qeer**  | Artificial Intelligence | **2** |
-|**17**| **Mahmoud**   | - | **2** |
-|**17**| **Rami**  | - | **2** |
+|**17**| **Mahmoud**   | N/A | **2** |
+|**17**| **Rami**  | N/A | **2** |
+
+| Rank | Major | Score |
+|:----:|:----------:|:-----:|
+|🏆| **Artificial Intelligence**   | **549,856,518,380** |
+|🥈| **Computer Engineering**  | **1,073,744,252** |
+|🥉| **Mechanical Engineering**   | **2,097,222** |
+|**4**| **Computer Science** | **9,320** |
+|**5**| **Chemical Engineering** | **260** |
+|**6**| **Electrical Engineering** | **64** |
+|**7**| **Biotechnology** | **16** |
+|**8**| **Architecture** | **12** |
+|**8**| **Business** | **12** |
+|**9**| **Civil Engineering** | **4** |
 
 
 </details>
