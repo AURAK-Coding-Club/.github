@@ -148,15 +148,15 @@ As of Fall 2024, the points accumulate through a binary-themed multiplier system
 
 | Rank | Member     | Major | Score |
 |:----:|:----------:|:-----:|:-----:|
-|🏆| **Hassan Khalloof**  | Artificial Intelligence | **137,438,953,472** |
+|🏆| **Hassan Khalloof**  | Artificial Intelligence | **549,755,813,888** |
 |🥈| **Abdulghani Sabbagh** | Computer Engineering | **1,073,741,824** |
 |🥉| **Fares Masarani**  | Artificial Intelligence | **67,108,864** |
-|**4**| **Maram Sabri**  | Artificial Intelligence |**8,388,608** |
-|**5**| **Arsh Khan**  | - | **524,288** |
-|**6**| **Ahmed Abuhajjaj**   | Artificial Intelligence | **8,192** |
-|**7**| **Sadiq**  | - | **1,024** |
-|**8**| **Kamel Mostafa**  | Computer Engineering | **512** |
-|**9**| **Nada Elkadi**  | Computer Science | **256** |
+|**4**| **Maram Sabri**  | Artificial Intelligence |**33,554,432** |
+|**5**| **Arsh Khan**  | - | **2,097,152** |
+|**6**| **Ahmed Abuhajjaj**   | Artificial Intelligence | **32,768** |
+|**7**| **Kamel Mostafa**  | Computer Engineering | **2,048** |
+|**8**| **Sadiq**  | - | **1,024** |
+|**8**| **Nada Elkadi**  | Computer Science | **1024** |
 |**9**| **Abdullah Yousef**  | Computer Engineering | **256** |
 |**9**| **Urita Sadallah**  | Computer Science | **256** |
 |**10**| **Litik Aswani**  | - | **128** |
@@ -165,21 +165,59 @@ As of Fall 2024, the points accumulate through a binary-themed multiplier system
 |**11**| **Karam Al Tawashi**  | - | **64** |
 |**12**| **Basheer**  | - | **32** |
 |**12**| **Loai**  | - | **32** |
+|**14**| **Ahaad Seif**  | - | **32** |
 |**13**| **Hinad Fransis**  | Artificial Intelligence |**16** |
-|**13**| **Taha**  | - | **16** |
+|**13**| **Taha Tunkiwala**  | - | **16** |
 |**13**| **Edwin**  | - | **16** |
+|**15**| **Abinraj Bhaskaran**  | - | **16** |
 |**13**| **Omar Alnuaimi**  | - | **16** |
-|**14**| **Ahaad Seif**  | - | **8** |
 |**14**| **Yousef Al Hayek**  | Artificial Intelligence | **8** |
 |**14**| **Mahmoud Khalaf**  | - | **8** |
 |**14**| **Eisa Hafiz**  | - | **8** |
-|**15**| **Abinraj Bhaskaran**  | - | **4** |
+|**16**| **Hamza Khalid**  | - | **8** |
 |**15**| **Bashar Ali**  | - | **4** |
 |**15**| **Areedah**  | - | **4** |
+|**15**| **Venkata Sivamani**  | - | **4** |
+|**15**| **Nada Osama Mohamed**  | - | **4** |
+|**15**| **Sara Alshikh**  | - | **4** |
+|**15**| **Asma Aldhaibani**  | - | **4** |
+|**15**| **Mohamed Fazil Mohamed Anwar**  | - | **4** |
+|**15**| **Fatima Farooq**  | - | **4** |
+|**15**| **Khaula Mohammed Khamis**  | - | **4** |
+|**15**| **Nada Naser**  | - | **4** |
+|**15**| **Maryam Haris**  | - | **4** |
+|**15**| **Laiba Shahid**  | - | **4** |
+|**15**| **Rahmet Gudeta**  | - | **4** |
 |**15**| **Abdulla Alshehhi**  | Artificial Intelligence | **4** |
 |**15**| **Yazan**  | - | **4** |
 |**15**| **Hasanul**  | - | **4** |
-|**16**| **Hamza**  | - | **2** |
+|**15**| **Sandra Chaar**  | - | **4** |
+|**15**| **Abijith Vathukkad**  | - | **4** |
+|**15**| **Blessy Binu**  | - | **4** |
+|**15**| **Habiba Selim**  | - | **4** |
+|**15**| **Mansoor Alshehhi**  | - | **4** |
+|**15**| **Rawan Rashid**  | - | **4** |
+|**15**| **Muhammed Rabeeh Mattath**  | - | **4** |
+|**15**| **Husain Para**  | - | **4** |
+|**15**| **Lojain Mohamed**  | - | **4** |
+|**15**| **Mayaz Bakoura**  | - | **4** |
+|**15**| **Loai Hassan**  | - | **4** |
+|**15**| **Mohammed Dawoud**  | - | **4** |
+|**15**| **Abdulla Osama Alsaeed**  | - | **4** |
+|**15**| **Hoor Abdelrahman**  | - | **4** |
+|**15**| **Samuel Joshy**  | - | **4** |
+|**15**| **Lana Zanneh**  | - | **4** |
+|**15**| **Muhammad Irtiza**  | - | **4** |
+|**15**| **Laith Al Homoud**  | - | **4** |
+|**15**| **Kenzy Osama**  | - | **4** |
+|**15**| **Hoor Khleifat**  | - | **4** |
+|**15**| **Yara Afifi**  | - | **4** |
+|**15**| **Bashar Odtallah**  | - | **4** |
+|**15**| **Farida Badawi**  | - | **4** |
+|**15**| **Sami Saadi**  | - | **4** |
+|**15**| **Ayman Bakroun**  | - | **4** |
+|**15**| **Haameed Fouzaan**  | - | **4** |
+|**15**| **Fatima Alam**  | - | **4** |
 |**16**| **Mazen Eltawil**  | Artificial Intelligence | **2** |
 |**16**| **Mayed**  | - | **2** |
 |**16**| **Devananth**  | - | **2** |
