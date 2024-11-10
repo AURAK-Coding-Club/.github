@@ -180,14 +180,14 @@ As of Fall 2024, the points accumulate through a binary-themed multiplier system
 |🥉| **Maram Sabri**  | Artificial Intelligence |**33,554,432** |
 |**4**| **Arsh Khan**  | Mechanical Engineering | **2,097,152** |
 |**5**| **Ahmed Abuhajjaj**   | Artificial Intelligence | **32,768** |
-|**5**| **Sadiq**  | N/A | **32,768** |
-|**5**| **Alex**  | N/A | **32,768** |
+|**5**| **Mohammed Sadiq**  | Computer Engineering | **32,768** |
+|**5**| **Aleksei Kovalev**  | Computer Science | **32,768** |
 |**6**| **Basheer**  | Artificial Intelligence | **8,192** |
 |**7**| **Kamel Mostafa**  | Computer Engineering | **2,048** |
 |**8**| **Nada Elkadi**  | Computer Science | **1024** |
 |**9**| **Urita Sadallah**  | Computer Science | **512** |
 |**10**| **Abdullah Yousef**  | Computer Engineering | **256** |
-|**10**| **Loai**  | Chemical Engineering | **256** |
+|**10**| **Loai Hassan**  | Chemical Engineering | **256** |
 |**11**| **Litik Aswani**  | Artificial Intelligence | **128** |
 |**12**| **Aashif**  | Electrical Engineering | **64** |
 |**12**| **Karam Al Tawashi**  | Mechanical Engineering | **64** |
