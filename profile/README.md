@@ -70,6 +70,7 @@ As of Fall 2024, the points accumulate through a binary-themed multiplier system
 - **(pts x 4)** for getting featured in the programming memes competition.
 - **(pts x 4)** for attending Dev Discussions.
 - **(pts x 4)** for engaging in any requested volunteering activities/gigs.
+- **(pts x 4)** for releasing major updates to an already submitted project.
 - **(pts x 8)** for getting 1st place in typeathons.
 - **(pts x 8)** for getting 1st place in a mentimeter question.
 - **(pts x 8)** for participating in official coding club competitions.
