@@ -170,7 +170,7 @@ As of Fall 2024, the points accumulate through a binary-themed multiplier system
 </details>
 
 <details>
-  <summary>[Ongoing] Fall 2024</summary>
+  <summary>[Archived] Fall 2024</summary>
   
 <br>
 
