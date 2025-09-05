@@ -217,7 +217,7 @@ As of Fall 2024, the points accumulate through a binary-themed multiplier system
 |**19**| **Yazan Qazzaz**  | Mechanical Engineering | **64** |
 |**20**| **Ahaad Seif**  | Computer Science | **32** |
 |**20**| **Eisa Hafiz**  | Computer Science | **32** |
-|**22**| **Andrey**  | Computer Science | **32** |
+|**20**| **Andrey**  | Computer Science | **32** |
 |**20**| **Abijith Vathukkad**  | Computer Engineering | **32** |
 |**21**| **Husain Para**  | Computer Science | **16** |
 |**21**| **Alaa Eddin**  | Artificial Intelligence | **16** |
