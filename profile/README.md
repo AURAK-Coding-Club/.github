@@ -50,7 +50,7 @@ The club brings together tech enthusiasts for a range of exciting activities tha
 - [x] Collab with the Gaming Club on the Rubik's Cube event.
 - [x] Collab with the Volunteering Club on the Rubik's Cube event.
 - [x] Collab with Music Club on "Experience the Sound of Code" Dev Discussion.
-- [x] [Winning Most Active Student Club Award.](cert2.png)
+- [x] [Winning Most Active Student Club Award.](cert2.jpg)
 
 **Total number of Tech Talks posted: 10** <br>
 **Total number of Dev Discussions hosted: 4** <br>
