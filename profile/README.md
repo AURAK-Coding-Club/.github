@@ -24,7 +24,6 @@ The club brings together tech enthusiasts for a range of exciting activities tha
 **Total number of Dev Discussions hosted: 2** <br>
 **Total number of Review Rounds posted: 4** <br>
 **Total number of events organized: 0** <br>
-**Total amount of budget used: 0 AED** <br>
 </details>
 
 <details>
@@ -39,18 +38,32 @@ The club brings together tech enthusiasts for a range of exciting activities tha
 **Total number of Dev Discussions hosted: 0** <br>
 **Total number of Review Rounds posted: 2** <br>
 **Total number of events organized: 1** <br>
-**Total amount of budget used: 0 AED** <br>
 </details>
 
 <details>
-  <summary> [Ongoing] Fall 2024 </summary>
+  <summary> [Archieved] Fall 2024 </summary>
 
-- [x] Participate in AURAK's club fair (banner, brochures, posters, and activities).
+- [x] Participate in AURAK's club fair (banner, brochures, posters, typathons, and personality tests).
 - [x] Renovate the Tech Titans Rewards & Penalties system.
 - [x] Organize a trip to Wetex 2024.
-- [x] Organize the department orientation event for freshmen `cout << "Hello World!";`  
+- [x] Organize the department orientation event for freshmen `cout << "Hello World!";`
+- [x] Collab with the Gaming Club on the Rubik's Cube event.
+- [x] Collab with the Volunteering Club on the Rubik's Cube event.
+- [x] Collab with Music Club on "Experience the Sound of Code" Dev Discussion.
+- [x] [Winning Most Active Student Club Award.](cert2.png)
 
-**Total number of Tech Talks posted: 0** <br>
+**Total number of Tech Talks posted: 10** <br>
+**Total number of Dev Discussions hosted: 4** <br>
+**Total number of Review Rounds posted: 4** <br>
+**Total number of events organized: 4** <br>
+</details>
+
+<details>
+  <summary> [Ongoing] Fall 2025 </summary>
+
+ 
+
+**Total number of Tech Talks posted: 1** <br>
 **Total number of Dev Discussions hosted: 0** <br>
 **Total number of Review Rounds posted: 0** <br>
 **Total number of events organized: 0** <br>
@@ -196,14 +209,15 @@ As of Fall 2024, the points accumulate through a binary-themed multiplier system
 |**14**| **Omar Alnuaimi**  | Computer Engineering | **2,048** |
 |**15**| **Nada Elkadi**  | Computer Science | **1,024** |
 |**15**| **Areedah Atta**  | Artificial Intelligence | **1,024** |
+|**15**| **Loai Hassan**  | Chemical Engineering | **1,024** |
 |**16**| **Samuel Joshy**  | Mechanical Engineering | **512** |
-|**17**| **Loai Hassan**  | Chemical Engineering | **256** |
 |**17**| **Yousef Al Hayek**  | Artificial Intelligence | **256** |
 |**18**| **Taha Tunkiwala**  | Computer Engineering | **128** |
 |**19**| **Karam Al Tawashi**  | Mechanical Engineering | **64** |
 |**19**| **Yazan Qazzaz**  | Mechanical Engineering | **64** |
 |**20**| **Ahaad Seif**  | Computer Science | **32** |
 |**20**| **Eisa Hafiz**  | Computer Science | **32** |
+|**22**| **Andrey**  | Computer Science | **32** |
 |**20**| **Abijith Vathukkad**  | Computer Engineering | **32** |
 |**21**| **Husain Para**  | Computer Science | **16** |
 |**21**| **Alaa Eddin**  | Artificial Intelligence | **16** |
@@ -212,7 +226,6 @@ As of Fall 2024, the points accumulate through a binary-themed multiplier system
 |**21**| **Mariam Awad**  | Biotechnology | **16** |
 |**21**| **Abinraj Bhaskaran**  | Computer Engineering | **16** |
 |**22**| **Fazil**  | Computer Engineering | **8** |
-|**22**| **Andrey**  | Computer Science | **8** |
 |**22**| **Lougin**  | Architecture | **8** |
 |**22**| **Farah**  | Business | **8** |
 |**22**| **Lana Zanneh**  | Computer Science | **8** |
@@ -241,7 +254,6 @@ As of Fall 2024, the points accumulate through a binary-themed multiplier system
 |**23**| **Rawan Rashid**  | Computer Science | **4** |
 |**23**| **Muhammed Rabeeh Mattath**  | Computer Science | **4** |
 |**23**| **Lojain Mohamed**  | Artificial Intelligence | **4** |
-|**23**| **Loai Hassan**  | Chemical Engineering | **4** |
 |**23**| **Mohammed Dawoud**  | Artificial Intelligence | **4** |
 |**23**| **Abdulla Osama Alsaeed**  | Artificial Intelligence | **4** |
 |**23**| **Hoor Abdelrahman**  | Artificial Intelligence | **4** |
@@ -273,16 +285,31 @@ As of Fall 2024, the points accumulate through a binary-themed multiplier system
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Rank** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Major** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Score** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |:-----:|:------------------------:|:-------:|
-|🏆| **Computer Engineering**  | **34,359,807,788** |
-|🥈| **Artificial Intelligence**   | **100,708,658** |
-|🥉| **Mechanical Engineering**   | **2,097,232** |
-|**4**| **Computer Science** | **33,854** |
-|**5**| **Chemical Engineering** | **260** |
-|**6**| **Electrical Engineering** | **64** |
-|**7**| **Biotechnology** | **16** |
+|🏆| **Computer Engineering**  | **590,295,810,363,004,848,400** |
+|🥈| **Artificial Intelligence**   | **18,446,744,078,289,816,916** |
+|🥉| **Electrical Engineering** | **281,474,976,710,656** |
+|**4**| **Mechanical Engineering**   | **8,589,935,234** |
+|**5**| **Computer Science** | **169,064** |
+|**6**| **Chemical Engineering** | **1,024** |
+|**7**| **Biotechnology** | **32** |
 |**8**| **Architecture** | **12** |
 |**8**| **Business** | **12** |
 |**9**| **Civil Engineering** | **4** |
+
+</details>
+</details>
+
+<details>
+  <summary>[Ongoing] Fall 2025</summary>
+  
+<br>
+
+
+
+<details>
+  <summary>Major Wars</summary>
+<br>
+
 
 </details>
 </details>
