@@ -315,11 +315,14 @@ As of Fall 2024, the points accumulate through a binary-themed multiplier system
 </details>
 
 ![](crew.gif)
+[Fall 2025 - Present]
 
-Current Team [Spring 2024 - Present]
+<details>
+  <summary>[Spring 2024 - Spring 2025]</summary>
+  
 | Role                  | Name              | Responsibilities                    |
 |-----------------------|-------------------|-------------------------------------|
-| **President**         | [Nour Mostafa](https://github.com/Nour-MK)  | Overseeing all team operations and planning events. <br> Reporting to Clubs Committee. |
+| **President**         | [Nour Mostafa](https://github.com/Nour-MK)  | Overseeing all team operations and planning events. <br> Reporting to Clubs' Committee. |
 | **Vice President**    | [Youssef Azizeldin](https://github.com/YoussefAzizeldin)  | Support the president. <br> Club's spokesperson. |
 | **Executive**         | [Mohamed Abouissa](https://github.com/Mohamed-Abouissa)   | Assisting the president and vice. <br> Manage club's finances.   |
 | **Ideator**           | [Mohammed Alshamsi](https://github.com/M-Alshamsi) | Generating new initiatives. <br> Preparing and curating the Dev Discussions' materials. |
@@ -330,8 +333,10 @@ Current Team [Spring 2024 - Present]
 | **Graphic Designer**  | [Zohaa Khan](https://github.com/Zohaax) | Creating visual content <br> (i.e. Posters, Banners, Brochures, Slides, Certificates.) |
 | **Graphic Designer**  | [Aamir Mohammed](https://aamirartistry.wixsite.com/aamirartistry) | Creating visual promotional content. <br> Coverage footage for the club's events and initiatives. |
 
+</details>
+
 <details>
-  <summary>Ex-Team [Fall 2022 - Spring 2023]</summary>
+  <summary>[Fall 2022 - Spring 2023]</summary>
 
 | Role               | Name             | Responsibilities                       |
 |--------------------|------------------|----------------------------------------|
