@@ -320,7 +320,7 @@ As of Fall 2024, the points accumulate through a binary-themed multiplier system
 |-----------------------|-------------------|-------------------------------------|
 | **President**         | [Riyad Almasri](https://github.com/TarboushMCC)  | Overseeing all team operations. <br> Drafting event proposals and budget requests. <br> Club's representative to the Supervisor and SGA. |
 | **Executive**           | [Nour Mostafa](https://github.com/Nour-MK) | Keeping the club's GitHub up to date. <br> Creating templates and issuing certificates. <br> Providing mentorship and backup to team operations. |
-| **Ideator**           | [Mohammed Alshamsi](https://github.com/M-Alshamsi) | Generating new initiatives. <br> Assisting in planning events. <br> Preparing and curating the Dev Discussions' materials. |
+| **Ideator**           | [Mohammed Alshamsi](https://github.com/M-Alshamsi) | Documenting meeting minutes. <br> Preparing and curating the Dev Discussions' materials. <br> Generating new initiatives and assisting in planning events. |
 | **Social Media Manager** | [Hazim Anwar](https://github.com/win-x-u-r)  | Club's spokesperson. <br> Managing the club's YouTube channel. <br> Curating content for the weekly Tech Talks. |
 | **Graphic Designer**  | [Zohaa Khan](https://github.com/Zohaax) | Designing YouTube thumbnails. <br> Designing the Tech Talk magazine. <br> Preparing event slides and posters. |
 
