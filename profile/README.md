@@ -323,6 +323,7 @@ As of Fall 2024, the points accumulate through a binary-themed multiplier system
 | **Ideator**           | [Mohammed Alshamsi](https://github.com/M-Alshamsi) | Documenting meeting minutes. <br> Preparing and curating the Dev Discussions' materials. <br> Generating new initiatives and assisting in planning events. |
 | **Social Media Manager** | [Hazim Anwar](https://github.com/win-x-u-r)  | Club's spokesperson. <br> Managing the club's YouTube channel. <br> Curating content for the weekly Tech Talks. |
 | **Graphic Designer**  | [Zohaa Khan](https://github.com/Zohaax) | Designing YouTube thumbnails. <br> Designing the Tech Talk magazine. <br> Preparing event slides and posters. |
+| **Photographer/Videographer**  | [Muhammad Mustafa](https://www.behance.net/mrshark25) | Creating visual promotional content. <br> Coverage footage for the club's events and initiatives. |
 
 <details>
   <summary>[Spring 2024 - Spring 2025]</summary>
