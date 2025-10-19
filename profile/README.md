@@ -72,7 +72,7 @@ The club brings together tech enthusiasts for a range of exciting activities tha
 
 ![](techtitans.gif)
 
-This is a semesterly competitive leaderboard set to foster student engagement in club activities. Top 3 ranks will be awarded Coding Club Tech Titan certificates from AURAK's Department of Computer Science & Engineering.
+This is a semesterly competitive leaderboard set to foster student engagement in club activities. Top 3 ranks will be awarded Coding Club Tech Titan certificates from the club.
 
 <details>
   <summary> Reward & Penalty System</summary>
