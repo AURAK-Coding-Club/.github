@@ -318,7 +318,8 @@ As of Fall 2024, the points accumulate through a binary-themed multiplier system
 [Fall 2025 - Present]
 | Role                  | Name              | Responsibilities                    |
 |-----------------------|-------------------|-------------------------------------|
-| **President**         | [Riyad Almasri](https://github.com/TarboushMCC)  | Overseeing all team operations. <br> Drafting event proposals and budget requests. <br> Club's representative to the Supervisor and SGA. |
+| **President**         | [Riyad Almasri](https://github.com/TarboushMCC)  | Overseeing all team operations. <br> Drafting event proposals and budget requests. <br> Club's representative to the Supervisor. |
+| **Vice President**    | [Ahmed Fadhl](https://github.com/0IJX)  | Support the president. <br> Club's representative to the SGA. <br> Membership management and post-event analysis. |
 | **Executive**           | [Nour Mostafa](https://github.com/Nour-MK) | Keeping the club's GitHub up to date. <br> Creating templates and issuing certificates. <br> Providing mentorship and backup to team operations. |
 | **Ideator**           | [Mohammed Alshamsi](https://github.com/M-Alshamsi) | Documenting meeting minutes. <br> Preparing and curating the Dev Discussions' materials. <br> Generating new initiatives and assisting in planning events. |
 | **Social Media Manager** | [Hazim Anwar](https://github.com/win-x-u-r)  | Club's spokesperson. <br> Managing the club's YouTube channel. <br> Curating content for the weekly Tech Talks. |
